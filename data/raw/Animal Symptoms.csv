@@ -1,0 +1,432 @@
+Animal_Type,Breed,Age,Gender,Weight,Symptom_1,Symptom_2,Symptom_3,Symptom_4,Duration,Appetite_Loss,Vomiting,Diarrhea,Coughing,Labored_Breathing,Lameness,Skin_Lesions,Nasal_Discharge,Eye_Discharge,Body_Temperature,Heart_Rate
+Dog,Labrador,4,Male,25,Fever,Lethargy,Appetite Loss,Vomiting,3 days,Yes,Yes,No,No,No,No,No,No,No,39.5°C,120
+Cat,Siamese,2,Female,4.5,Coughing,Sneezing,Eye Discharge,Nasal Discharge,1 week,No,No,No,Yes,No,No,No,Yes,Yes,38.9°C,150
+Cow,Holstein,3,Female,600,Fever,Nasal Discharge,Labored Breathing,Coughing,5 days,Yes,No,No,Yes,Yes,No,No,Yes,No,40.1°C,90
+Dog,Beagle,1,Male,10,Diarrhea,Vomiting,Lethargy,Appetite Loss,2 days,Yes,Yes,Yes,No,No,No,No,No,No,39.2°C,130
+Cat,Persian,5,Male,3.8,Lethargy,Appetite Loss,Skin Lesions,No,2 weeks,Yes,No,No,No,No,No,Yes,No,No,38.7°C,160
+Horse,Thoroughbred,6,Female,500,Coughing,Labored Breathing,Nasal Discharge,Fever,10 days,Yes,No,No,Yes,Yes,No,No,Yes,No,39.8°C,85
+Dog,German Shepherd,3,Female,30,Lameness,Fever,Skin Lesions,Lethargy,7 days,Yes,No,No,No,No,Yes,Yes,No,No,39.3°C,110
+Cat,Maine Coon,2,Male,6,Vomiting,Appetite Loss,Lethargy,Diarrhea,4 days,Yes,Yes,Yes,No,No,No,No,No,No,39.1°C,140
+Dog,Bulldog,5,Male,23,Labored Breathing,Coughing,Nasal Discharge,Appetite Loss,6 days,Yes,No,No,Yes,Yes,No,No,Yes,No,40.0°C,115
+Cow,Jersey,4,Female,580,Lethargy,Decreased Milk Yield,Fever,No,8 days,Yes,No,No,No,No,No,No,No,No,39.6°C,70
+Cat,Siamese,3,Female,5,Lethargy,Eye Discharge,Vomiting,Fever,5 days,Yes,Yes,No,No,No,No,Yes,No,No,39.0°C,130
+Dog,Poodle,2,Female,12,Lethargy,Appetite Loss,Coughing,Vomiting,4 days,Yes,Yes,No,Yes,No,No,No,No,No,39.4°C,115
+Cat,Bengal,1,Male,4.2,Vomiting,Diarrhea,Lethargy,Appetite Loss,3 days,Yes,Yes,Yes,No,No,No,No,No,No,38.8°C,140
+Horse,Arabian,8,Female,490,Lameness,Fever,Coughing,Nasal Discharge,1 week,Yes,No,No,Yes,No,Yes,No,Yes,No,39.9°C,75
+Cow,Hereford,5,Male,650,Fever,Lethargy,Decreased Milk Yield,Appetite Loss,5 days,Yes,No,No,No,No,No,No,No,No,39.7°C,80
+Dog,Chihuahua,4,Female,3.5,Lethargy,Vomiting,Diarrhea,Coughing,2 days,Yes,Yes,Yes,Yes,No,No,No,No,No,39.1°C,130
+Cat,Ragdoll,3,Male,5,Skin Lesions,Appetite Loss,Lethargy,Vomiting,10 days,Yes,Yes,No,No,No,No,Yes,No,No,38.6°C,155
+Dog,Siberian Husky,6,Male,28,Lameness,Fever,Skin Lesions,Lethargy,8 days,Yes,No,No,No,No,Yes,Yes,No,No,39.3°C,120
+Horse,Clydesdale,10,Male,700,Coughing,Nasal Discharge,Labored Breathing,Fever,2 weeks,Yes,No,No,Yes,Yes,No,No,Yes,No,40.2°C,85
+Cat,British Shorthair,5,Female,4.8,Lethargy,Eye Discharge,Appetite Loss,Nasal Discharge,1 week,No,No,No,Yes,Yes,No,No,Yes,Yes,39.0°C,150
+Cow,Angus,3,Female,590,Decreased Milk Yield,Fever,Appetite Loss,Lethargy,7 days,Yes,No,No,No,No,No,No,No,No,39.5°C,70
+Horse,Arabian,7,Male,450,Lethargy,Appetite Loss,Fever,Labored Breathing,5 days,Yes,No,No,Yes,Yes,No,No,No,No,39.7°C,90
+Dog,Poodle,2,Female,8,Coughing,Nasal Discharge,Appetite Loss,Lethargy,4 days,Yes,No,No,Yes,No,No,No,Yes,No,39.1°C,125
+Cat,Bengal,3,Male,5.5,Lethargy,Vomiting,Diarrhea,Dehydration,3 days,Yes,Yes,Yes,No,No,No,No,No,No,39.3°C,140
+Cow,Angus,5,Female,700,Fever,Decreased Milk Yield,Lethargy,Nasal Discharge,7 days,Yes,No,No,Yes,Yes,No,No,Yes,No,39.8°C,80
+Dog,Golden Retriever,4,Male,30,Lameness,Swelling,Appetite Loss,Fever,10 days,Yes,No,No,No,No,Yes,No,No,No,39.5°C,110
+Cat,Russian Blue,2,Female,4.5,Coughing,Nasal Discharge,Eye Discharge,Sneezing,5 days,No,No,No,Yes,No,No,No,Yes,Yes,38.8°C,150
+Horse,Quarter Horse,9,Female,480,Coughing,Nasal Discharge,Fever,Labored Breathing,6 days,Yes,No,No,Yes,Yes,No,No,No,No,39.9°C,85
+Dog,Chihuahua,1,Male,3,Vomiting,Diarrhea,Lethargy,Fever,3 days,Yes,Yes,Yes,No,No,No,No,No,No,39.4°C,135
+Cat,Ragdoll,6,Male,6,Appetite Loss,Weight Loss,Vomiting,Lethargy,2 weeks,Yes,Yes,No,No,No,No,Yes,No,No,39.0°C,160
+Cow,Hereford,3,Female,650,Lethargy,Fever,Decreased Milk Yield,Nasal Discharge,8 days,Yes,No,No,Yes,No,No,No,No,No,39.6°C,75
+Dog,German Shepherd,5,Male,30,Lethargy,Labored Breathing,Coughing,Appetite Loss,6 days,Yes,No,No,Yes,Yes,No,No,No,No,39.6°C,125
+Cat,Maine Coon,6,Female,7.5,Appetite Loss,Vomiting,Diarrhea,Skin Lesions,4 days,Yes,Yes,Yes,No,No,Yes,No,No,No,38.9°C,145
+Horse,Thoroughbred,9,Male,500,Nasal Discharge,Coughing,Labored Breathing,Lethargy,10 days,No,No,No,Yes,Yes,No,No,Yes,No,40.0°C,78
+Cow,Holstein,4,Female,580,Appetite Loss,Diarrhea,Lethargy,Decreased Milk Yield,7 days,Yes,No,Yes,No,No,No,No,No,No,39.4°C,82
+Dog,Beagle,2,Female,9,Fever,Vomiting,Lethargy,Skin Lesions,3 days,Yes,Yes,No,No,No,Yes,Yes,No,No,39.2°C,132
+Cat,Persian,8,Male,4.6,Appetite Loss,Vomiting,Eye Discharge,Lethargy,2 days,No,Yes,No,No,No,No,Yes,No,Yes,39.0°C,140
+Horse,Appaloosa,6,Female,520,Lameness,Fever,Skin Lesions,Appetite Loss,5 days,No,No,No,No,No,Yes,Yes,No,No,39.8°C,76
+Cow,Jersey,3,Male,620,Diarrhea,Lethargy,Appetite Loss,Decreased Milk Yield,8 days,Yes,No,Yes,No,No,No,No,No,No,39.7°C,79
+Dog,Dachshund,7,Male,5.5,Coughing,Labored Breathing,Lethargy,Appetite Loss,2 weeks,Yes,No,No,Yes,Yes,No,No,No,No,39.5°C,120
+Cat,Sphynx,4,Female,3.2,Eye Discharge,Nasal Discharge,Appetite Loss,Lethargy,1 week,No,No,No,Yes,Yes,No,No,Yes,Yes,39.3°C,150
+Dog,Golden Retriever,4,Female,28,Lethargy,Vomiting,Diarrhea,Loss of Appetite,5 days,Yes,No,Yes,Yes,No,Yes,No,No,No,39.2°C,130
+Cat,British Shorthair,3,Male,5.5,Appetite Loss,Coughing,Nasal Discharge,Eye Discharge,4 days,Yes,No,No,Yes,Yes,No,No,No,Yes,38.7°C,145
+Horse,Arabian,10,Female,450,Lameness,Fever,Swollen Joints,Lethargy,8 days,No,No,No,Yes,Yes,No,No,No,No,39.4°C,75
+Cow,Angus,6,Male,600,Coughing,Nasal Discharge,Labored Breathing,Fever,7 days,No,No,No,Yes,Yes,No,No,No,No,39.9°C,82
+Dog,Bulldog,5,Male,22,Vomiting,Appetite Loss,Fever,Diarrhea,3 days,Yes,Yes,No,No,Yes,Yes,No,No,No,39.6°C,138
+Cat,Siamese,2,Female,4,Sneezing,Eye Discharge,Appetite Loss,Lethargy,2 days,Yes,No,Yes,No,Yes,No,No,No,Yes,39.0°C,135
+Horse,Quarter Horse,12,Male,500,Lameness,Fever,Swollen Joints,Reduced Appetite,5 days,No,No,No,Yes,No,Yes,No,No,No,39.7°C,78
+Cow,Hereford,3,Female,570,Lethargy,Diarrhea,Appetite Loss,Dehydration,6 days,Yes,No,No,No,No,Yes,No,No,No,39.1°C,80
+Dog,Poodle,8,Male,15,Coughing,Labored Breathing,Lethargy,Appetite Loss,1 week,Yes,No,Yes,No,Yes,No,No,No,Yes,39.3°C,126
+Cat,Abyssinian,5,Female,4.5,Vomiting,Diarrhea,Loss of Appetite,Dehydration,3 days,No,Yes,No,Yes,No,Yes,No,Yes,No,38.5°C,142
+Horse,Clydesdale,15,Male,600,Appetite Loss,Lethargy,Labored Breathing,Coughing,10 days,No,No,Yes,Yes,No,No,Yes,Yes,No,39.8°C,70
+Cow,Brahman,7,Female,620,Fever,Coughing,Lethargy,Decreased Milk Yield,5 days,Yes,No,Yes,Yes,No,Yes,No,No,No,39.6°C,81
+Dog,Husky,9,Male,25,Lethargy,Vomiting,Diarrhea,Loss of Appetite,4 days,Yes,Yes,No,Yes,Yes,No,No,No,No,39.1°C,124
+Cat,Ragdoll,4,Female,5,Eye Discharge,Nasal Discharge,Coughing,Lethargy,6 days,Yes,No,No,Yes,No,Yes,Yes,No,No,38.6°C,148
+Horse,Morgan,11,Female,520,Lameness,Swollen Joints,Reduced Appetite,Weight Loss,7 days,No,No,Yes,Yes,No,Yes,No,Yes,No,39.7°C,77
+Cow,Limousin,2,Male,550,Diarrhea,Lethargy,Appetite Loss,Dehydration,4 days,Yes,No,No,Yes,Yes,No,Yes,No,No,39.5°C,85
+Dog,Border Collie,3,Female,17,Coughing,Labored Breathing,Fever,Nasal Discharge,8 days,Yes,No,No,Yes,No,Yes,No,Yes,Yes,39.4°C,129
+Cat,Devon Rex,6,Male,4.2,Vomiting,Appetite Loss,Lethargy,Weight Loss,9 days,Yes,No,Yes,No,Yes,No,Yes,No,No,38.9°C,146
+Horse,Standardbred,7,Male,540,Lameness,Swollen Joints,Lethargy,Weight Loss,6 days,No,No,No,Yes,No,Yes,Yes,No,No,39.6°C,76
+Cow,Red Angus,5,Female,620,Fever,Diarrhea,Lethargy,Appetite Loss,4 days,Yes,No,Yes,No,Yes,No,Yes,Yes,No,39.8°C,83
+Dog,Chihuahua,3,Male,2.5,Sneezing,Eye Discharge,Labored Breathing,Lethargy,5 days,Yes,No,No,Yes,No,No,Yes,No,Yes,39.5°C,131
+Cat,Sphynx,5,Female,3,Vomiting,Appetite Loss,Diarrhea,Weight Loss,6 days,Yes,Yes,No,No,Yes,No,Yes,No,No,38.7°C,143
+Horse,Shire,10,Female,680,Lethargy,Fever,Appetite Loss,Weight Loss,10 days,No,No,Yes,Yes,No,Yes,No,No,No,39.9°C,74
+Cow,Guernsey,4,Male,590,Appetite Loss,Lethargy,Diarrhea,Dehydration,5 days,Yes,No,No,Yes,No,No,Yes,No,No,39.3°C,84
+Dog,Dachshund,7,Female,8,Vomiting,Diarrhea,Weight Loss,Appetite Loss,3 days,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,39.2°C,120
+Cat,Maine Coon,9,Male,6.5,Lethargy,Appetite Loss,Weight Loss,Dehydration,8 days,Yes,Yes,Yes,No,No,No,Yes,Yes,No,39.0°C,140
+Horse,Thoroughbred,14,Male,520,Coughing,Labored Breathing,Fever,Weight Loss,12 days,No,Yes,Yes,No,Yes,No,No,Yes,No,39.7°C,72
+Cow,Jersey,6,Female,600,Fever,Nasal Discharge,Decreased Milk Yield,Lethargy,5 days,Yes,No,No,Yes,No,Yes,No,No,No,39.4°C,86
+Dog,Labrador Retriever,11,Male,35,Lethargy,Loss of Appetite,Fever,Vomiting,7 days,Yes,No,No,Yes,No,Yes,No,Yes,No,39.3°C,118
+Cat,Persian,8,Female,5,Coughing,Nasal Discharge,Eye Discharge,Loss of Appetite,4 days,Yes,No,Yes,No,Yes,No,Yes,No,No,38.9°C,147
+Dog,German Shepherd,6,Female,30,Coughing,Labored Breathing,Lethargy,Loss of Appetite,6 days,Yes,No,Yes,No,Yes,No,No,No,Yes,39.4°C,125
+Cat,Scottish Fold,4,Male,4.8,Sneezing,Eye Discharge,Appetite Loss,Lethargy,5 days,Yes,No,No,Yes,Yes,No,Yes,No,Yes,38.7°C,137
+Horse,Appaloosa,10,Female,510,Lameness,Fever,Swollen Joints,Reduced Appetite,9 days,No,No,Yes,Yes,No,Yes,No,No,No,39.8°C,74
+Cow,Holstein,7,Male,590,Coughing,Nasal Discharge,Labored Breathing,Lethargy,4 days,No,No,No,Yes,Yes,No,Yes,No,No,39.9°C,80
+Dog,Beagle,5,Male,10,Vomiting,Diarrhea,Loss of Appetite,Fever,3 days,Yes,Yes,No,No,No,Yes,No,Yes,No,39.2°C,132
+Cat,Bengal,3,Female,4.2,Lethargy,Vomiting,Diarrhea,Dehydration,6 days,Yes,No,Yes,Yes,No,Yes,No,No,No,39.1°C,145
+Horse,Arabian,13,Male,490,Fever,Nasal Discharge,Labored Breathing,Lethargy,8 days,No,No,No,Yes,Yes,No,No,Yes,No,39.6°C,78
+Cow,Simmental,8,Female,630,Loss of Appetite,Weight Loss,Lethargy,Reduced Milk Production,7 days,No,Yes,No,No,Yes,Yes,Yes,No,No,39.5°C,83
+Dog,Rottweiler,7,Female,35,Vomiting,Diarrhea,Loss of Appetite,Dehydration,3 days,Yes,No,Yes,No,Yes,No,No,No,Yes,39.0°C,127
+Cat,Siberian,2,Male,5.5,Coughing,Sneezing,Nasal Discharge,Eye Discharge,4 days,Yes,No,Yes,No,No,Yes,No,Yes,No,38.6°C,144
+Horse,American Quarter,14,Female,520,Swollen Joints,Lameness,Fever,Loss of Appetite,10 days,No,No,Yes,Yes,Yes,No,No,No,No,39.7°C,75
+Cow,Shorthorn,5,Male,600,Diarrhea,Dehydration,Lethargy,Loss of Appetite,5 days,Yes,No,No,Yes,No,Yes,No,No,Yes,39.4°C,84
+Dog,Shih Tzu,4,Female,7,Coughing,Labored Breathing,Appetite Loss,Lethargy,6 days,Yes,No,Yes,No,Yes,Yes,No,No,No,39.3°C,133
+Cat,American Curl,5,Male,3.7,Vomiting,Diarrhea,Dehydration,Weight Loss,3 days,Yes,Yes,No,No,Yes,Yes,No,No,No,38.8°C,148
+Horse,Percheron,12,Male,600,Swollen Joints,Lameness,Appetite Loss,Weight Loss,5 days,No,No,No,Yes,Yes,No,No,Yes,No,39.9°C,72
+Cow,Brahman,3,Female,570,Fever,Nasal Discharge,Lethargy,Coughing,4 days,Yes,No,No,Yes,No,Yes,No,No,Yes,39.8°C,86
+Dog,Chihuahua,9,Male,2,Vomiting,Loss of Appetite,Diarrhea,Lethargy,2 days,Yes,Yes,No,No,No,Yes,No,No,Yes,39.1°C,128
+Cat,Manx,4,Female,3.3,Eye Discharge,Nasal Discharge,Sneezing,Coughing,6 days,Yes,No,No,Yes,No,Yes,Yes,No,No,38.5°C,138
+Horse,Tennessee Walker,16,Female,530,Weight Loss,Loss of Appetite,Lethargy,Fever,8 days,No,No,Yes,Yes,No,Yes,Yes,No,No,39.6°C,71
+Cow,Jersey,6,Male,620,Weight Loss,Reduced Milk Production,Lethargy,Appetite Loss,7 days,Yes,No,Yes,No,Yes,Yes,No,No,No,39.4°C,87
+Dog,Dalmatian,8,Female,20,Vomiting,Diarrhea,Weight Loss,Dehydration,4 days,Yes,No,Yes,No,Yes,No,No,Yes,No,39.0°C,120
+Cat,Bombay,6,Male,4,Lethargy,Vomiting,Loss of Appetite,Weight Loss,5 days,Yes,No,No,Yes,Yes,No,Yes,No,No,38.9°C,149
+Horse,Welsh Pony,10,Male,450,Lameness,Swollen Joints,Reduced Appetite,Weight Loss,9 days,No,No,Yes,Yes,Yes,No,No,Yes,No,39.8°C,76
+Cow,Brown Swiss,3,Female,580,Diarrhea,Dehydration,Loss of Appetite,Lethargy,5 days,Yes,Yes,No,No,No,Yes,No,No,Yes,39.3°C,85
+Dog,Akita,6,Male,35,Lethargy,Loss of Appetite,Fever,Vomiting,6 days,Yes,No,Yes,No,Yes,Yes,No,No,Yes,39.5°C,130
+Cat,British Shorthair,7,Female,4.4,Nasal Discharge,Eye Discharge,Sneezing,Lethargy,4 days,Yes,No,No,Yes,No,Yes,Yes,No,No,38.6°C,142
+Horse,Morgan,11,Female,530,Weight Loss,Swollen Joints,Reduced Appetite,Fever,8 days,No,Yes,Yes,No,Yes,No,No,Yes,No,39.7°C,74
+Cow,Guernsey,5,Male,610,Nasal Discharge,Coughing,Labored Breathing,Fever,3 days,Yes,No,Yes,No,No,Yes,No,No,Yes,39.9°C,82
+Dog,Boxer,8,Female,27,Vomiting,Lethargy,Diarrhea,Loss of Appetite,4 days,Yes,Yes,No,No,Yes,No,No,Yes,No,39.2°C,131
+Cat,Abyssinian,4,Male,4.5,Eye Discharge,Lethargy,Nasal Discharge,Sneezing,5 days,Yes,No,No,Yes,Yes,No,No,Yes,No,38.8°C,140
+Dog,Golden Retriever,5,Male,32,Vomiting,Diarrhea,Loss of Appetite,Lethargy,3 days,Yes,No,Yes,No,Yes,No,No,No,Yes,39.2°C,130
+Cat,Persian,7,Female,4.1,Sneezing,Nasal Discharge,Eye Discharge,Lethargy,4 days,Yes,No,No,Yes,Yes,No,Yes,No,Yes,38.9°C,142
+Horse,Thoroughbred,15,Male,480,Lameness,Swollen Joints,Appetite Loss,Fever,7 days,No,Yes,No,No,Yes,Yes,No,Yes,No,39.7°C,75
+Cow,Limousin,6,Female,620,Weight Loss,Reduced Milk Production,Appetite Loss,Lethargy,10 days,Yes,Yes,No,Yes,No,Yes,No,No,Yes,39.4°C,85
+Rabbit,Holland Lop,3,Female,1.8,Sneezing,Nasal Discharge,Loss of Appetite,Lethargy,5 days,No,Yes,No,Yes,Yes,No,No,Yes,No,38.6°C,160
+Sheep,Merino,4,Male,75,Coughing,Labored Breathing,Nasal Discharge,Fever,4 days,Yes,No,No,Yes,No,Yes,Yes,No,No,40.0°C,78
+Goat,Boer,5,Female,68,Diarrhea,Dehydration,Lethargy,Loss of Appetite,6 days,Yes,No,Yes,No,No,Yes,No,No,Yes,39.3°C,82
+Pig,Yorkshire,2,Male,110,Vomiting,Diarrhea,Loss of Appetite,Fever,3 days,No,Yes,No,Yes,Yes,No,No,Yes,Yes,39.5°C,85
+Dog,Dachshund,4,Female,9,Lethargy,Vomiting,Loss of Appetite,Dehydration,3 days,Yes,No,Yes,No,Yes,Yes,No,No,No,39.0°C,132
+Cat,Siamese,6,Male,4.2,Coughing,Sneezing,Eye Discharge,Lethargy,4 days,Yes,No,No,Yes,No,Yes,Yes,No,Yes,38.7°C,140
+Horse,Clydesdale,12,Female,600,Fever,Swollen Joints,Appetite Loss,Lameness,6 days,No,No,Yes,No,Yes,Yes,No,Yes,No,39.6°C,77
+Cow,Angus,8,Male,580,Coughing,Labored Breathing,Lethargy,Nasal Discharge,5 days,Yes,No,No,Yes,No,Yes,No,No,Yes,40.0°C,83
+Rabbit,Mini Rex,2,Male,1.6,Diarrhea,Loss of Appetite,Dehydration,Weight Loss,3 days,No,Yes,No,Yes,No,Yes,No,No,Yes,38.5°C,155
+Sheep,Suffolk,3,Female,80,Weight Loss,Lethargy,Loss of Appetite,Reduced Wool Growth,8 days,Yes,No,Yes,No,No,Yes,No,Yes,No,39.8°C,77
+Goat,Alpine,4,Male,72,Fever,Lethargy,Weight Loss,Loss of Appetite,7 days,No,Yes,No,No,Yes,Yes,No,No,Yes,39.7°C,83
+Pig,Duroc,3,Female,115,Sneezing,Coughing,Nasal Discharge,Labored Breathing,5 days,Yes,No,Yes,No,No,Yes,Yes,No,No,40.0°C,80
+Dog,Corgi,5,Male,11,Vomiting,Diarrhea,Lethargy,Weight Loss,3 days,Yes,No,Yes,No,No,Yes,No,Yes,No,39.2°C,134
+Cat,Burmese,8,Female,4.5,Eye Discharge,Nasal Discharge,Sneezing,Lethargy,6 days,Yes,No,Yes,Yes,No,Yes,No,No,Yes,38.6°C,139
+Horse,Paint,14,Male,500,Lameness,Weight Loss,Reduced Appetite,Swollen Joints,10 days,No,Yes,No,Yes,Yes,No,No,Yes,No,39.5°C,76
+Cow,Hereford,7,Female,590,Diarrhea,Dehydration,Lethargy,Appetite Loss,6 days,Yes,Yes,No,No,Yes,No,No,Yes,No,39.3°C,84
+Rabbit,Flemish Giant,5,Female,6.8,Lethargy,Appetite Loss,Weight Loss,Diarrhea,5 days,Yes,No,Yes,No,Yes,Yes,No,No,Yes,39.0°C,150
+Sheep,Dorper,6,Male,65,Coughing,Labored Breathing,Nasal Discharge,Appetite Loss,4 days,No,No,Yes,Yes,No,Yes,Yes,No,Yes,39.9°C,80
+Goat,Nubian,3,Female,70,Diarrhea,Dehydration,Lethargy,Appetite Loss,5 days,Yes,Yes,No,No,No,Yes,No,Yes,Yes,39.4°C,81
+Dog,Poodle,7,Female,15,Lethargy,Vomiting,Loss of Appetite,Diarrhea,4 days,Yes,No,Yes,No,No,Yes,No,Yes,No,39.1°C,125
+Cat,Maine Coon,5,Male,5.2,Nasal Discharge,Eye Discharge,Sneezing,Lethargy,3 days,Yes,Yes,No,Yes,No,No,No,Yes,No,38.8°C,140
+Horse,Arabian,9,Female,460,Lameness,Swollen Joints,Loss of Appetite,Reduced Mobility,6 days,No,Yes,No,No,Yes,Yes,No,Yes,Yes,39.6°C,78
+Cow,Jersey,6,Male,570,Coughing,Nasal Discharge,Labored Breathing,Fever,5 days,Yes,No,Yes,No,Yes,No,No,Yes,Yes,39.4°C,81
+Rabbit,English Angora,4,Female,2.1,Sneezing,Nasal Discharge,Weight Loss,Lethargy,3 days,Yes,No,No,Yes,Yes,No,Yes,No,Yes,38.6°C,150
+Sheep,Cheviot,5,Male,85,Weight Loss,Reduced Wool Production,Lethargy,Loss of Appetite,7 days,Yes,Yes,No,No,Yes,No,No,No,Yes,39.2°C,79
+Goat,Toggenburg,7,Female,65,Diarrhea,Dehydration,Lethargy,Appetite Loss,5 days,Yes,Yes,No,Yes,No,Yes,No,Yes,No,39.3°C,80
+Pig,Berkshire,2,Male,115,Coughing,Nasal Discharge,Lethargy,Fever,4 days,Yes,No,No,Yes,Yes,No,Yes,No,Yes,39.8°C,85
+Dog,Shih Tzu,8,Female,8,Lethargy,Vomiting,Diarrhea,Loss of Appetite,5 days,Yes,No,Yes,Yes,No,No,No,No,Yes,39.0°C,130
+Cat,Scottish Fold,4,Male,4.3,Nasal Discharge,Eye Discharge,Sneezing,Lethargy,3 days,Yes,No,Yes,No,No,Yes,No,Yes,Yes,38.7°C,143
+Horse,Belgian,13,Female,650,Lameness,Swollen Joints,Fever,Weight Loss,8 days,No,Yes,No,Yes,Yes,No,No,No,Yes,39.5°C,74
+Cow,Brown Swiss,9,Male,600,Labored Breathing,Nasal Discharge,Coughing,Fever,6 days,Yes,No,Yes,Yes,No,Yes,No,No,Yes,39.6°C,80
+Rabbit,Himalayan,3,Male,1.9,Sneezing,Eye Discharge,Nasal Discharge,Lethargy,2 days,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,38.4°C,160
+Sheep,Romney,6,Female,78,Weight Loss,Lethargy,Loss of Appetite,Swollen Joints,9 days,Yes,Yes,No,Yes,No,No,Yes,Yes,No,39.7°C,76
+Goat,Kiko,3,Male,75,Nasal Discharge,Fever,Weight Loss,Loss of Appetite,6 days,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,39.2°C,82
+Pig,Tamworth,4,Female,120,Vomiting,Diarrhea,Appetite Loss,Fever,5 days,Yes,Yes,No,Yes,Yes,No,Yes,No,No,39.6°C,84
+Dog,Beagle,6,Male,13,Coughing,Labored Breathing,Nasal Discharge,Fever,4 days,Yes,No,No,Yes,Yes,Yes,No,Yes,No,39.4°C,127
+Cat,Russian Blue,5,Female,4.7,Eye Discharge,Nasal Discharge,Sneezing,Lethargy,5 days,Yes,Yes,No,No,No,Yes,No,Yes,Yes,38.6°C,145
+Horse,Shetland Pony,11,Male,300,Lameness,Swollen Joints,Appetite Loss,Weight Loss,7 days,Yes,Yes,No,Yes,No,Yes,No,Yes,No,39.6°C,80
+Cow,Holstein,7,Female,650,Coughing,Nasal Discharge,Appetite Loss,Fever,5 days,Yes,No,No,Yes,Yes,No,No,Yes,No,39.4°C,79
+Rabbit,Dutch,2,Female,1.4,Sneezing,Nasal Discharge,Lethargy,Loss of Appetite,3 days,Yes,No,Yes,Yes,No,Yes,No,No,Yes,38.8°C,155
+Sheep,Lincoln,8,Male,95,Lethargy,Swollen Joints,Fever,Loss of Appetite,6 days,No,Yes,No,Yes,Yes,No,Yes,No,Yes,39.9°C,75
+Goat,LaMancha,5,Female,72,Diarrhea,Loss of Appetite,Lethargy,Dehydration,7 days,Yes,No,Yes,No,No,Yes,No,Yes,No,39.2°C,82
+Pig,Poland China,3,Male,110,Fever,Coughing,Nasal Discharge,Weight Loss,6 days,No,Yes,Yes,No,Yes,No,Yes,No,Yes,39.8°C,87
+Dog,Golden Retriever,7,Male,30,Vomiting,Diarrhea,Loss of Appetite,Lethargy,6 days,Yes,No,Yes,Yes,No,No,Yes,No,No,39.5°C,118
+Cat,Sphynx,4,Male,5.2,Vomiting,Diarrhea,Loss of Appetite,Lethargy,5 days,Yes,Yes,Yes,No,Yes,Yes,No,No,No,39.1°C,148
+Horse,Clydesdale,15,Female,700,Swollen Joints,Lameness,Weight Loss,Lethargy,8 days,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,39.5°C,77
+Cow,Simmental,8,Male,580,Appetite Loss,Weight Loss,Fever,Lethargy,6 days,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,39.3°C,80
+Rabbit,Mini Rex,1,Female,1.2,Nasal Discharge,Lethargy,Loss of Appetite,Sneezing,2 days,Yes,No,Yes,No,Yes,No,Yes,No,No,38.7°C,165
+Dog,Rottweiler,5,Female,42,Lethargy,Vomiting,Loss of Appetite,Coughing,4 days,Yes,Yes,No,Yes,No,Yes,Yes,No,No,39.2°C,120
+Cat,Bengal,3,Male,5.5,Nasal Discharge,Coughing,Sneezing,Lethargy,5 days,Yes,Yes,No,Yes,No,Yes,No,No,Yes,38.9°C,140
+Horse,Thoroughbred,7,Female,480,Lameness,Loss of Appetite,Swollen Legs,Fever,6 days,No,Yes,Yes,No,Yes,Yes,No,Yes,No,39.6°C,75
+Cow,Angus,6,Male,550,Coughing,Nasal Discharge,Fever,Weight Loss,7 days,Yes,No,Yes,Yes,Yes,No,Yes,No,No,39.4°C,82
+Rabbit,Himalayan,2,Male,1.6,Nasal Discharge,Sneezing,Lethargy,Appetite Loss,3 days,Yes,Yes,No,Yes,No,No,Yes,No,No,38.5°C,150
+Sheep,Texel,4,Female,85,Lameness,Swollen Joints,Loss of Appetite,Diarrhea,5 days,Yes,No,No,Yes,No,No,Yes,Yes,No,39.3°C,76
+Goat,Alpine,5,Male,72,Vomiting,Diarrhea,Fever,Loss of Appetite,6 days,Yes,Yes,No,Yes,No,No,Yes,Yes,No,39.0°C,81
+Pig,Duroc,3,Female,100,Coughing,Nasal Discharge,Loss of Appetite,Lethargy,4 days,Yes,No,Yes,No,Yes,Yes,No,No,Yes,39.5°C,88
+Dog,Doberman Pinscher,6,Male,40,Vomiting,Lethargy,Loss of Appetite,Coughing,5 days,Yes,Yes,No,Yes,No,No,Yes,Yes,No,39.3°C,119
+Cat,Siamese,4,Female,4.2,Nasal Discharge,Lethargy,Loss of Appetite,Fever,6 days,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,38.8°C,145
+Horse,Pinto,9,Male,530,Lameness,Coughing,Loss of Appetite,Swollen Legs,7 days,No,Yes,No,Yes,Yes,No,No,Yes,No,39.7°C,77
+Cow,Charolais,5,Female,620,Lethargy,Coughing,Nasal Discharge,Fever,4 days,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,39.6°C,81
+Rabbit,Mini Lop,1,Female,1.2,Nasal Discharge,Loss of Appetite,Lethargy,Sneezing,2 days,Yes,Yes,Yes,Yes,No,No,Yes,No,No,38.7°C,155
+Sheep,Suffolk,6,Male,90,Swollen Joints,Loss of Appetite,Lethargy,Coughing,5 days,Yes,Yes,No,Yes,No,Yes,No,Yes,No,39.4°C,78
+Goat,Boer,3,Female,70,Fever,Vomiting,Diarrhea,Appetite Loss,5 days,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,39.5°C,80
+Pig,Landrace,5,Male,120,Coughing,Nasal Discharge,Loss of Appetite,Lethargy,6 days,Yes,Yes,No,No,Yes,No,Yes,Yes,No,39.2°C,85
+Dog,Pit Bull,4,Female,35,Lethargy,Vomiting,Loss of Appetite,Coughing,3 days,Yes,Yes,No,Yes,No,Yes,No,No,No,39.0°C,125
+Cat,Persian,5,Male,5,Eye Discharge,Nasal Discharge,Sneezing,Lethargy,4 days,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,38.9°C,148
+Horse,Mustang,12,Male,550,Lameness,Appetite Loss,Swollen Legs,Fever,5 days,No,Yes,Yes,No,Yes,No,Yes,No,Yes,39.6°C,80
+Cow,Hereford,7,Female,580,Loss of Appetite,Fever,Coughing,Lethargy,6 days,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,39.5°C,80
+Rabbit,Holland Lop,3,Male,1.3,Nasal Discharge,Loss of Appetite,Lethargy,Fever,4 days,Yes,Yes,No,No,Yes,No,Yes,Yes,No,38.6°C,160
+Sheep,Border Leicester,5,Male,90,Lethargy,Nasal Discharge,Swollen Joints,Loss of Appetite,5 days,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,39.7°C,74
+Goat,Nubian,6,Female,60,Vomiting,Fever,Loss of Appetite,Lethargy,5 days,Yes,No,Yes,Yes,No,Yes,No,No,No,39.3°C,82
+Pig,Wessex Saddleback,3,Male,105,Vomiting,Fever,Loss of Appetite,Lethargy,5 days,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,39.0°C,84
+Dog,Cocker Spaniel,5,Female,20,Vomiting,Lethargy,Loss of Appetite,Fever,4 days,Yes,Yes,No,No,Yes,No,No,Yes,No,39.2°C,123
+Cat,Scottish Fold,4,Male,4.8,Coughing,Loss of Appetite,Fever,Lethargy,5 days,Yes,No,Yes,No,No,Yes,No,Yes,Yes,38.8°C,147
+Horse,Arabian,6,Female,500,Lameness,Loss of Appetite,Swollen Legs,Coughing,6 days,No,Yes,Yes,Yes,No,No,Yes,Yes,No,39.4°C,79
+Cow,Jersey,5,Female,500,Coughing,Nasal Discharge,Lethargy,Fever,5 days,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,39.5°C,81
+Rabbit,English Angora,2,Male,1.5,Sneezing,Nasal Discharge,Loss of Appetite,Fever,3 days,Yes,No,No,Yes,Yes,No,Yes,No,No,38.9°C,153
+Dog,German Shepherd,4,Female,45,Lethargy,Loss of Appetite,Coughing,Fever,5 days,Yes,No,Yes,Yes,No,Yes,Yes,No,No,39.4°C,120
+Cat,Maine Coon,3,Male,7.5,Lethargy,Vomiting,Loss of Appetite,Diarrhea,4 days,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,39.1°C,148
+Horse,Clydesdale,9,Male,850,Lameness,Coughing,Loss of Appetite,Fever,6 days,No,Yes,Yes,No,Yes,No,Yes,Yes,No,39.2°C,79
+Cow,Holstein,5,Female,620,Coughing,Fever,Loss of Appetite,Lethargy,7 days,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,39.3°C,82
+Rabbit,English Spot,2,Female,1.3,Sneezing,Nasal Discharge,Loss of Appetite,Fever,3 days,Yes,No,Yes,Yes,No,No,Yes,Yes,No,38.8°C,155
+Sheep,Finnsheep,4,Male,70,Coughing,Lethargy,Loss of Appetite,Swollen Joints,5 days,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,39.0°C,75
+Goat,Saanen,5,Female,65,Vomiting,Fever,Diarrhea,Loss of Appetite,6 days,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,39.4°C,80
+Pig,Tamworth,3,Male,100,Coughing,Lethargy,Nasal Discharge,Loss of Appetite,4 days,Yes,Yes,No,Yes,Yes,No,Yes,No,No,39.6°C,85
+Dog,Poodle,6,Male,25,Lethargy,Loss of Appetite,Coughing,Fever,5 days,Yes,Yes,No,Yes,No,No,Yes,Yes,No,39.3°C,110
+Cat,Russian Blue,3,Female,4.8,Nasal Discharge,Coughing,Loss of Appetite,Lethargy,4 days,Yes,No,Yes,No,Yes,No,Yes,Yes,No,38.9°C,145
+Horse,Shetland Pony,8,Female,300,Lameness,Loss of Appetite,Swollen Legs,Fever,5 days,Yes,Yes,No,Yes,No,Yes,Yes,No,No,39.5°C,76
+Cow,Guernsey,7,Male,590,Coughing,Lethargy,Loss of Appetite,Swollen Legs,6 days,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,39.1°C,78
+Rabbit,Mini Rex,1,Female,1.1,Sneezing,Loss of Appetite,Fever,Nasal Discharge,2 days,Yes,Yes,No,Yes,No,No,Yes,No,No,38.7°C,160
+Sheep,Leicester Longwool,6,Male,95,Swollen Joints,Loss of Appetite,Coughing,Lethargy,5 days,Yes,No,Yes,No,Yes,No,No,Yes,No,39.4°C,74
+Goat,Nigerian Dwarf,2,Female,55,Vomiting,Fever,Loss of Appetite,Lethargy,4 days,Yes,Yes,No,Yes,No,No,Yes,No,Yes,39.2°C,82
+Pig,Large White,6,Female,115,Coughing,Nasal Discharge,Loss of Appetite,Lethargy,7 days,Yes,No,Yes,Yes,Yes,No,Yes,No,No,39.7°C,83
+Dog,Golden Retriever,7,Male,33,Lethargy,Vomiting,Loss of Appetite,Fever,5 days,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,39.2°C,118
+Cat,Burmese,4,Male,4.3,Nasal Discharge,Coughing,Loss of Appetite,Lethargy,3 days,Yes,No,No,Yes,No,Yes,Yes,No,Yes,39.0°C,150
+Horse,Welsh Pony,5,Female,400,Lameness,Loss of Appetite,Swollen Legs,Fever,4 days,No,Yes,Yes,No,Yes,No,Yes,Yes,No,39.4°C,78
+Cow,Aberdeen Angus,6,Female,620,Coughing,Fever,Loss of Appetite,Lethargy,5 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,39.2°C,80
+Rabbit,Himalayan,2,Male,1.2,Sneezing,Loss of Appetite,Fever,Nasal Discharge,4 days,Yes,Yes,No,Yes,No,No,Yes,No,Yes,38.8°C,154
+Sheep,Dorset,3,Male,75,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,Yes,Yes,No,Yes,No,No,39.1°C,77
+Goat,Toggenburg,5,Female,60,Vomiting,Diarrhea,Loss of Appetite,Fever,4 days,Yes,Yes,Yes,No,Yes,No,Yes,No,No,39.6°C,81
+Pig,Berkshire,4,Male,95,Coughing,Loss of Appetite,Lethargy,Nasal Discharge,3 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,39.2°C,88
+Dog,Bulldog,5,Female,18,Lethargy,Coughing,Loss of Appetite,Fever,5 days,Yes,No,No,Yes,Yes,Yes,No,Yes,No,39.3°C,115
+Cat,Siamese,6,Male,5.5,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,No,No,Yes,No,No,Yes,Yes,No,39.0°C,149
+Horse,Thoroughbred,8,Female,550,Lameness,Loss of Appetite,Swollen Legs,Fever,5 days,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,39.2°C,77
+Cow,Ayrshire,4,Male,630,Coughing,Lethargy,Loss of Appetite,Swollen Legs,6 days,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,39.1°C,79
+Dog,Beagle,4,Female,15,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,No,Yes,Yes,No,No,Yes,Yes,No,39.2°C,125
+Cat,Bengal,3,Male,5,Nasal Discharge,Coughing,Loss of Appetite,Fever,5 days,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,39.0°C,140
+Horse,Arabian,7,Female,500,Lameness,Loss of Appetite,Swollen Legs,Fever,6 days,No,Yes,Yes,Yes,No,Yes,Yes,No,No,39.3°C,85
+Cow,Jersey,5,Male,560,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,39.1°C,79
+Rabbit,Himalayan,2,Male,1.2,Sneezing,Loss of Appetite,Nasal Discharge,Fever,3 days,Yes,No,Yes,Yes,No,No,Yes,No,Yes,38.7°C,155
+Sheep,Suffolk,5,Female,90,Coughing,Lethargy,Loss of Appetite,Fever,4 days,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,39.2°C,72
+Goat,Boer,6,Male,70,Vomiting,Diarrhea,Loss of Appetite,Fever,5 days,Yes,Yes,No,Yes,No,Yes,Yes,No,No,39.4°C,80
+Pig,Duroc,4,Female,105,Coughing,Loss of Appetite,Nasal Discharge,Lethargy,3 days,Yes,No,Yes,No,Yes,No,Yes,No,Yes,39.5°C,83
+Dog,Chihuahua,3,Male,6,Lethargy,Vomiting,Loss of Appetite,Fever,2 days,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,39.0°C,118
+Cat,Scottish Fold,5,Female,4.7,Nasal Discharge,Coughing,Loss of Appetite,Fever,6 days,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,38.9°C,150
+Horse,Mustang,8,Male,550,Lameness,Loss of Appetite,Swollen Legs,Fever,7 days,No,Yes,Yes,Yes,Yes,No,No,Yes,No,39.1°C,87
+Cow,Simmental,4,Male,650,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,39.3°C,78
+Rabbit,Mini Lop,1,Female,1,Sneezing,Loss of Appetite,Nasal Discharge,Fever,3 days,Yes,No,Yes,Yes,Yes,No,Yes,No,No,38.8°C,158
+Sheep,Karakul,5,Male,80,Swollen Joints,Coughing,Loss of Appetite,Lethargy,4 days,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,39.4°C,75
+Goat,Angora,6,Female,60,Vomiting,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,39.6°C,83
+Pig,Landrace,4,Male,100,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,39.2°C,87
+Dog,Rottweiler,5,Female,40,Lethargy,Vomiting,Loss of Appetite,Fever,4 days,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,39.3°C,122
+Cat,Abyssinian,3,Male,4.6,Nasal Discharge,Coughing,Loss of Appetite,Fever,4 days,Yes,No,Yes,No,Yes,Yes,Yes,No,No,39.0°C,142
+Horse,Tennessee Walking Horse,6,Female,600,Lameness,Swollen Legs,Loss of Appetite,Fever,6 days,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,39.4°C,82
+Cow,Dexter,3,Male,450,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,39.3°C,79
+Rabbit,Holland Lop,1,Male,1,Sneezing,Loss of Appetite,Nasal Discharge,Fever,3 days,Yes,Yes,No,Yes,No,Yes,Yes,No,No,38.9°C,153
+Sheep,Corriedale,4,Female,95,Swollen Joints,Coughing,Loss of Appetite,Lethargy,5 days,Yes,No,No,Yes,Yes,Yes,No,Yes,No,39.1°C,76
+Goat,Kiko,5,Male,72,Vomiting,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,39.5°C,80
+Pig,Hampshire,3,Female,105,Coughing,Loss of Appetite,Lethargy,Nasal Discharge,5 days,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,39.2°C,86
+Dog,Golden Retriever,7,Male,30,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,39.0°C,130
+Cat,Persian,6,Female,4.2,Nasal Discharge,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,No,No,Yes,Yes,No,39.1°C,148
+Horse,Standardbred,6,Male,650,Lameness,Swollen Legs,Loss of Appetite,Fever,6 days,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,39.4°C,80
+Cow,Charolais,3,Male,700,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,39.2°C,77
+Dog,Poodle,3,Female,20,Vomiting,Diarrhea,Lethargy,Fever,4 days,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,39.0°C,120
+Cat,Maine Coon,5,Male,8.5,Coughing,Loss of Appetite,Lethargy,Fever,3 days,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,39.1°C,145
+Horse,Clydesdale,7,Female,850,Lameness,Swollen Legs,Loss of Appetite,Fever,6 days,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,39.2°C,82
+Cow,Holstein,4,Male,700,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,No,Yes,No,Yes,No,Yes,39.3°C,77
+Rabbit,Dutch,2,Male,1.8,Sneezing,Nasal Discharge,Loss of Appetite,Fever,4 days,Yes,Yes,No,Yes,No,Yes,No,No,Yes,39.0°C,150
+Sheep,Southdown,6,Female,80,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,Yes,No,Yes,Yes,No,No,39.3°C,74
+Goat,Nubian,4,Male,72,Vomiting,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,39.6°C,80
+Pig,Berkshire,5,Female,110,Coughing,Loss of Appetite,Nasal Discharge,Fever,5 days,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,39.2°C,85
+Dog,German Shepherd,4,Male,32,Lethargy,Vomiting,Loss of Appetite,Fever,3 days,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,39.1°C,130
+Cat,Sphynx,3,Female,5,Nasal Discharge,Loss of Appetite,Coughing,Fever,4 days,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,39.0°C,155
+Horse,Andalusian,8,Male,550,Lameness,Swollen Legs,Loss of Appetite,Fever,7 days,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,39.4°C,88
+Cow,Guernsey,5,Female,450,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,39.0°C,78
+Rabbit,English Angora,3,Male,1.4,Sneezing,Nasal Discharge,Loss of Appetite,Fever,4 days,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,38.9°C,148
+Sheep,Tunis,4,Male,95,Swollen Joints,Coughing,Loss of Appetite,Lethargy,5 days,Yes,Yes,No,Yes,No,Yes,Yes,No,No,39.2°C,76
+Goat,Boer,6,Female,75,Vomiting,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,39.7°C,82
+Pig,Large White,4,Male,120,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,39.1°C,86
+Dog,Bulldog,3,Female,25,Lethargy,Vomiting,Loss of Appetite,Fever,4 days,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,39.2°C,125
+Cat,Russian Blue,2,Male,6,Nasal Discharge,Loss of Appetite,Coughing,Fever,3 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.0°C,145
+Horse,Thoroughbred,6,Female,650,Lameness,Swollen Legs,Loss of Appetite,Fever,6 days,Yes,No,Yes,No,Yes,No,Yes,Yes,No,39.3°C,84
+Cow,Red Poll,4,Male,680,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,39.4°C,77
+Rabbit,Himalayan,2,Female,1.1,Sneezing,Loss of Appetite,Nasal Discharge,Fever,3 days,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,38.8°C,150
+Sheep,Romney,5,Female,90,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,39.1°C,75
+Goat,Alpine,5,Male,80,Vomiting,Diarrhea,Loss of Appetite,Fever,4 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,39.5°C,80
+Pig,Pietrain,4,Female,130,Coughing,Loss of Appetite,Lethargy,Nasal Discharge,6 days,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,39.2°C,88
+Dog,Beagle,5,Male,25,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,39.2°C,120
+Cat,Bengal,3,Female,6,Nasal Discharge,Loss of Appetite,Coughing,Fever,4 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.1°C,145
+Horse,Appaloosa,9,Male,550,Lameness,Loss of Appetite,Swollen Legs,Fever,7 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,39.4°C,80
+Cow,Jersey,6,Female,500,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,39.2°C,75
+Rabbit,English Lop,3,Male,2,Sneezing,Nasal Discharge,Loss of Appetite,Fever,4 days,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,39.0°C,155
+Sheep,Blackface,4,Male,95,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,No,Yes,No,Yes,Yes,No,Yes,No,39.3°C,77
+Goat,Saanen,5,Female,85,Vomiting,Diarrhea,Lethargy,Fever,6 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,39.6°C,85
+Pig,Landrace,6,Male,120,Coughing,Loss of Appetite,Nasal Discharge,Fever,5 days,Yes,No,Yes,Yes,No,No,Yes,Yes,No,39.1°C,95
+Dog,Chihuahua,4,Female,5,Lethargy,Vomiting,Loss of Appetite,Fever,3 days,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,39.1°C,110
+Cat,Siberian,7,Male,10.2,Nasal Discharge,Loss of Appetite,Coughing,Fever,5 days,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,39.0°C,135
+Horse,Clydesdale,7,Female,800,Lameness,Swollen Legs,Loss of Appetite,Fever,6 days,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,39.5°C,85
+Cow,Ayrshire,5,Male,720,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,39.3°C,82
+Rabbit,Himalayan,4,Female,1.6,Sneezing,Loss of Appetite,Nasal Discharge,Fever,5 days,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,39.0°C,145
+Sheep,Suffolk,4,Male,85,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,No,No,Yes,Yes,No,39.4°C,78
+Goat,Nubian,6,Female,95,Vomiting,Diarrhea,Lethargy,Fever,6 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,39.8°C,80
+Pig,Duroc,3,Male,110,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,39.2°C,100
+Dog,Boxer,6,Female,30,Lethargy,Vomiting,Loss of Appetite,Fever,4 days,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,39.1°C,115
+Cat,Abyssinian,5,Male,4.5,Coughing,Loss of Appetite,Nasal Discharge,Fever,3 days,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,39.0°C,140
+Horse,Morgan,5,Male,550,Lameness,Loss of Appetite,Swollen Legs,Fever,6 days,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,39.2°C,80
+Cow,Belted Galloway,4,Female,650,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,39.4°C,75
+Rabbit,Dutch,3,Male,2,Sneezing,Loss of Appetite,Nasal Discharge,Fever,4 days,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,39.1°C,150
+Sheep,Cheviot,3,Female,75,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,No,No,Yes,Yes,No,39.3°C,77
+Goat,Angora,4,Male,90,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,39.6°C,82
+Pig,Large White,5,Female,130,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,39.0°C,90
+Dog,Yorkshire Terrier,4,Male,8,Lethargy,Vomiting,Loss of Appetite,Fever,3 days,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,39.2°C,100
+Cat,Maine Coon,6,Female,10,Coughing,Loss of Appetite,Nasal Discharge,Fever,4 days,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,39.1°C,145
+Horse,Thoroughbred,6,Male,550,Lameness,Loss of Appetite,Swollen Legs,Fever,5 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,39.5°C,78
+Dog,Rottweiler,7,Male,35,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,39.3°C,110
+Cat,Persian,4,Female,7,Vomiting,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,39.1°C,125
+Horse,Clydesdale,10,Female,750,Lameness,Swollen Legs,Loss of Appetite,Fever,6 days,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,39.4°C,90
+Cow,Holstein,8,Male,650,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,39.5°C,80
+Rabbit,Himalayan,3,Male,1.8,Sneezing,Nasal Discharge,Loss of Appetite,Fever,4 days,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,39.0°C,140
+Sheep,Rambouillet,5,Female,90,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,39.3°C,78
+Goat,Boer,6,Male,100,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,39.6°C,85
+Pig,Berkshire,4,Female,120,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,39.2°C,100
+Dog,Golden Retriever,5,Male,40,Vomiting,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,No,Yes,Yes,No,No,39.2°C,130
+Cat,Bengal,3,Female,8,Nasal Discharge,Loss of Appetite,Coughing,Fever,4 days,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,39.0°C,145
+Horse,Arabian,7,Male,450,Lameness,Swollen Legs,Loss of Appetite,Fever,6 days,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,39.4°C,85
+Cow,Jersey,6,Female,550,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,No,Yes,Yes,No,Yes,No,39.6°C,70
+Rabbit,English Angora,2,Male,1.9,Sneezing,Loss of Appetite,Nasal Discharge,Fever,3 days,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,39.1°C,150
+Sheep,Suffolk,4,Male,110,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,39.3°C,77
+Goat,Nubian,7,Female,120,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,39.7°C,85
+Pig,Tamworth,5,Male,150,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,39.3°C,92
+Dog,Beagle,4,Female,25,Lethargy,Vomiting,Loss of Appetite,Fever,4 days,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,39.2°C,120
+Cat,Siberian,5,Male,11,Coughing,Loss of Appetite,Nasal Discharge,Fever,4 days,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,39.2°C,140
+Horse,Pinto,6,Male,600,Lameness,Loss of Appetite,Swollen Legs,Fever,5 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,39.5°C,88
+Cow,Ayrshire,7,Female,550,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,39.4°C,75
+Rabbit,Mini Rex,2,Female,1.5,Sneezing,Loss of Appetite,Nasal Discharge,Fever,3 days,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,39.1°C,130
+Sheep,Dorper,4,Male,95,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,No,Yes,Yes,No,No,39.3°C,78
+Goat,Saanen,8,Female,110,Vomiting,Diarrhea,Lethargy,Fever,6 days,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,39.8°C,85
+Pig,Landrace,6,Female,130,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,39.2°C,110
+Dog,Chihuahua,3,Male,6,Lethargy,Vomiting,Loss of Appetite,Fever,5 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,39.3°C,135
+Cat,Burmese,4,Female,7.5,Coughing,Loss of Appetite,Nasal Discharge,Fever,5 days,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,39.0°C,140
+Horse,Appaloosa,8,Male,700,Lameness,Loss of Appetite,Swollen Legs,Fever,7 days,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,39.3°C,82
+Cow,Guernsey,5,Female,600,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,39.6°C,85
+Dog,Poodle,3,Female,28,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,39.1°C,120
+Cat,Maine Coon,4,Male,10,Vomiting,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,39.0°C,140
+Horse,Thoroughbred,5,Female,550,Lameness,Swollen Legs,Loss of Appetite,Fever,6 days,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,39.5°C,100
+Cow,Charolais,8,Male,700,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,39.2°C,75
+Rabbit,Holland Lop,2,Male,1.5,Sneezing,Nasal Discharge,Loss of Appetite,Fever,4 days,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,39.3°C,130
+Sheep,Blackface,6,Male,95,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,39.4°C,80
+Goat,Kiko,4,Female,90,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,39.6°C,85
+Pig,Large White,3,Female,120,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,39.1°C,95
+Dog,Beagle,4,Male,20,Lethargy,Vomiting,Loss of Appetite,Fever,4 days,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,39.2°C,130
+Cat,Siamese,3,Female,7,Coughing,Loss of Appetite,Nasal Discharge,Fever,3 days,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,39.0°C,140
+Horse,Clydesdale,8,Male,800,Lameness,Swollen Legs,Loss of Appetite,Fever,6 days,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,39.6°C,85
+Cow,Simmental,7,Female,650,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,39.3°C,75
+Rabbit,Mini Lop,1,Female,1.3,Sneezing,Nasal Discharge,Loss of Appetite,Fever,3 days,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,39.1°C,140
+Sheep,Texel,5,Male,110,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,39.4°C,70
+Goat,Angora,7,Female,100,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,39.7°C,80
+Pig,Landrace,5,Male,130,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,39.2°C,90
+Dog,Dachshund,3,Female,12,Lethargy,Vomiting,Loss of Appetite,Fever,4 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,39.0°C,115
+Cat,Bengal,4,Male,10,Vomiting,Loss of Appetite,Lethargy,Fever,4 days,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,39.2°C,145
+Horse,Arabian,6,Male,500,Lameness,Swollen Legs,Loss of Appetite,Fever,6 days,Yes,No,Yes,No,Yes,Yes,No,Yes,No,39.3°C,85
+Cow,Jersey,6,Male,550,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,39.5°C,70
+Rabbit,Himalayan,2,Male,1.8,Sneezing,Loss of Appetite,Nasal Discharge,Fever,4 days,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,39.2°C,130
+Sheep,Rambouillet,6,Female,90,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,39.6°C,80
+Goat,Boer,7,Female,120,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,39.5°C,90
+Pig,Tamworth,4,Female,150,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,39.4°C,85
+Dog,Bulldog,5,Female,22,Coughing,Lethargy,Loss of Appetite,Fever,5 days,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,39.3°C,120
+Horse,Quarter Horse,7,Male,550,Lameness,Swollen Legs,Loss of Appetite,Fever,6 days,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,39.4°C,110
+Cow,Holstein,8,Female,750,Coughing,Loss of Appetite,Lethargy,Fever,7 days,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,39.5°C,85
+Rabbit,English Angora,1,Female,2,Sneezing,Loss of Appetite,Nasal Discharge,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.2°C,120
+Sheep,Cheviot,4,Male,85,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,39.3°C,95
+Goat,Saanen,2,Male,85,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,39.6°C,90
+Pig,Pietrain,3,Female,135,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,39.4°C,95
+Dog,Shih Tzu,4,Male,8,Lethargy,Vomiting,Loss of Appetite,Fever,4 days,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,39.2°C,115
+Cat,Abyssinian,2,Female,6,Coughing,Loss of Appetite,Nasal Discharge,Fever,4 days,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,39.1°C,140
+Horse,Morgan,9,Male,600,Lameness,Swollen Legs,Loss of Appetite,Fever,6 days,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,39.5°C,80
+Cow,Angus,5,Female,650,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,39.3°C,75
+Rabbit,Himalayan,2,Male,1.5,Sneezing,Loss of Appetite,Nasal Discharge,Fever,4 days,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,39.2°C,130
+Sheep,Suffolk,6,Female,120,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,39.5°C,80
+Goat,Toggenburg,5,Female,75,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,39.7°C,85
+Pig,Landrace,6,Male,140,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,39.5°C,90
+Dog,Cocker Spaniel,2,Female,10,Lethargy,Vomiting,Loss of Appetite,Fever,3 days,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,39.0°C,125
+Cat,Ragdoll,5,Male,8,Coughing,Loss of Appetite,Nasal Discharge,Fever,4 days,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,39.2°C,145
+Horse,Clydesdale,7,Male,700,Lameness,Swollen Legs,Loss of Appetite,Fever,6 days,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,39.6°C,85
+Cow,Limousin,6,Male,650,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,39.5°C,80
+Rabbit,Mini Rex,1,Female,1.2,Sneezing,Nasal Discharge,Loss of Appetite,Fever,3 days,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,39.0°C,130
+Sheep,Merino,7,Male,90,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,39.4°C,90
+Goat,Alpine,6,Male,110,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.6°C,90
+Pig,Berkshire,4,Female,120,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,39.4°C,85
+Dog,Rottweiler,3,Female,30,Lethargy,Vomiting,Loss of Appetite,Fever,5 days,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,39.2°C,120
+Cat,Bengal,4,Male,7,Coughing,Loss of Appetite,Nasal Discharge,Fever,5 days,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,39.1°C,135
+Horse,Thoroughbred,5,Male,550,Lameness,Swollen Legs,Loss of Appetite,Fever,6 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,39.5°C,110
+Cow,Jersey,3,Female,600,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,39.4°C,95
+Sheep,Dorset,6,Male,120,Coughing,Loss of Appetite,Lethargy,Fever,7 days,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,39.5°C,85
+Goat,Nubian,2,Female,80,Vomiting,Diarrhea,Lethargy,Fever,4 days,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,39.7°C,90
+Pig,Tamworth,3,Male,160,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,39.5°C,105
+Horse,Clydesdale,6,Male,700,Lameness,Swollen Legs,Loss of Appetite,Fever,7 days,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,39.6°C,115
+Cow,Angus,4,Female,650,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,39.5°C,90
+Rabbit,Himalayan,2,Male,1.6,Sneezing,Loss of Appetite,Nasal Discharge,Fever,4 days,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,39.2°C,130
+Sheep,Suffolk,7,Male,130,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,39.3°C,85
+Goat,Alpine,3,Female,75,Vomiting,Diarrhea,Lethargy,Fever,4 days,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,39.7°C,95
+Pig,Berkshire,5,Male,140,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,39.5°C,100
+Dog,Chihuahua,2,Male,6,Lethargy,Vomiting,Loss of Appetite,Fever,3 days,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,39.3°C,130
+Cat,Maine Coon,6,Male,9,Coughing,Loss of Appetite,Nasal Discharge,Fever,5 days,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,39.4°C,140
+Horse,Arabian,7,Female,550,Lameness,Swollen Legs,Loss of Appetite,Fever,7 days,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,39.7°C,100
+Cow,Charolais,8,Female,750,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,39.3°C,80
+Rabbit,Dutch,1,Female,1.4,Sneezing,Loss of Appetite,Nasal Discharge,Fever,3 days,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,39.2°C,130
+Sheep,Hampshire,6,Male,125,Coughing,Loss of Appetite,Lethargy,Fever,7 days,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,39.6°C,85
+Goat,Nubian,4,Male,80,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,39.6°C,90
+Pig,Large White,6,Female,130,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,39.4°C,95
+Dog,Beagle,2,Male,10,Lethargy,Vomiting,Loss of Appetite,Fever,4 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.4°C,120
+Cat,Persian,4,Female,7,Coughing,Loss of Appetite,Nasal Discharge,Fever,5 days,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,39.0°C,130
+Horse,Percheron,5,Male,680,Lameness,Swollen Legs,Loss of Appetite,Fever,5 days,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,39.4°C,105
+Cow,Holstein,3,Male,700,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.2°C,90
+Cow,Guernsey,3,Male,580,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.4°C,85
+Sheep,Dorset,4,Male,125,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,39.3°C,80
+Goat,Saanen,3,Female,75,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,39.5°C,90
+Pig,Landrace,4,Male,130,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,39.6°C,100
+Sheep,Cheviot,3,Female,110,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,Yes,No,Yes,Yes,No,No,Yes,No,39.4°C,80
+Goat,Boer,5,Male,85,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,39.6°C,95
+Pig,Yorkshire,2,Female,120,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,39.5°C,105
+Horse,Morgan,4,Male,650,Lameness,Swollen Legs,Loss of Appetite,Fever,6 days,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,39.6°C,120
+Cow,Ayrshire,3,Female,700,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,39.4°C,90
+Goat,Kiko,4,Female,70,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,39.5°C,90
+Pig,Chester White,3,Male,150,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,39.7°C,105
+Dog,Boxer,3,Female,30,Lethargy,Vomiting,Loss of Appetite,Fever,4 days,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,39.3°C,120
+Cat,Maine Coon,5,Male,8,Coughing,Loss of Appetite,Nasal Discharge,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,39.0°C,135
+Horse,Arabian,6,Female,650,Lameness,Swollen Legs,Loss of Appetite,Fever,5 days,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,39.5°C,110
+Cow,Jersey,2,Male,550,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,39.2°C,95
+Cow,Simmental,4,Female,700,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,39.4°C,100
+Sheep,Suffolk,3,Male,110,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,39.3°C,80
+Goat,Toggenburg,2,Female,70,Vomiting,Diarrhea,Lethargy,Fever,4 days,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,39.4°C,90
+Pig,Tamworth,3,Male,130,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,39.6°C,105
+Cow,Dexter,2,Male,500,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,39.4°C,95
+Sheep,Cheviot,4,Female,120,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.4°C,85
+Goat,Alpine,3,Male,75,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,39.5°C,100
+Pig,Large White,2,Female,120,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.6°C,110
+Goat,Nubian,4,Female,80,Vomiting,Diarrhea,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.5°C,95
+Pig,Berkshire,5,Male,145,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,39.7°C,110
+Sheep,Dorset,5,Male,150,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,39.5°C,90
+Sheep,Southdown,6,Male,130,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.3°C,80
+Dog,Golden Retriever,5,Male,35,Coughing,Lethargy,Loss of Appetite,Fever,4 days,Yes,Yes,No,Yes,No,No,No,Yes,No,39.2°C,110
+Dog,Labrador,4,Male,30,Vomiting,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,No,No,No,Yes,No,39.2°C,100
+Cat,Persian,3,Female,5,Coughing,Sneezing,Nasal Discharge,Fever,4 days,Yes,Yes,No,Yes,No,No,No,Yes,No,39.1°C,110
+Horse,Arabian,5,Male,450,Lameness,Loss of Appetite,Swollen Legs,Fever,7 days,Yes,No,No,Yes,Yes,Yes,No,Yes,No,39.4°C,110
+Horse,Clydesdale,6,Male,700,Lameness,Swollen Legs,Loss of Appetite,Fever,7 days,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,39.4°C,125
+Dog,Labrador,4,Male,25,Fever,Lethargy,Appetite Loss,Vomiting,3 days,Yes,Yes,No,No,No,No,No,No,No,39.5°C,120
+Cat,Siamese,2,Female,4.5,Coughing,Sneezing,Eye Discharge,Nasal Discharge,1 week,No,No,No,Yes,No,No,No,Yes,Yes,38.9°C,150
+Cow,Holstein,3,Female,600,Fever,Nasal Discharge,Labored Breathing,Coughing,5 days,Yes,No,No,Yes,Yes,No,No,Yes,No,40.1°C,90
+Dog,Beagle,1,Male,10,Diarrhea,Vomiting,Lethargy,Appetite Loss,2 days,Yes,Yes,Yes,No,No,No,No,No,No,39.2°C,130
+Cat,Persian,5,Male,3.8,Lethargy,Appetite Loss,Skin Lesions,No,2 weeks,Yes,No,No,No,No,No,Yes,No,No,38.7°C,160
+Horse,Thoroughbred,6,Female,500,Coughing,Labored Breathing,Nasal Discharge,Fever,10 days,Yes,No,No,Yes,Yes,No,No,Yes,No,39.8°C,85
+Dog,German Shepherd,3,Female,30,Lameness,Fever,Skin Lesions,Lethargy,7 days,Yes,No,No,No,No,Yes,Yes,No,No,39.3°C,110
+Cat,Maine Coon,2,Male,6,Vomiting,Appetite Loss,Lethargy,Diarrhea,4 days,Yes,Yes,Yes,No,No,No,No,No,No,39.1°C,140
+Dog,Bulldog,5,Male,23,Labored Breathing,Coughing,Nasal Discharge,Appetite Loss,6 days,Yes,No,No,Yes,Yes,No,No,Yes,No,40.0°C,115
+Cow,Jersey,4,Female,580,Lethargy,Decreased Milk Yield,Fever,No,8 days,Yes,No,No,No,No,No,No,No,No,39.6°C,70
