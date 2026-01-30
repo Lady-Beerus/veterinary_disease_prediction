@@ -1,0 +1,432 @@
+Animal_Type,Breed,Age,Gender,Weight,Appetite_Loss,Vomiting,Diarrhea,Coughing,Labored_Breathing,Lameness,Skin_Lesions,Nasal_Discharge,Eye_Discharge,Heart_Rate,Disease_Prediction,Disease_clean,Disease_nospecies,Disease_final,symptom_fever,symptom_lethargy,symptom_appetite_loss,symptom_vomiting,symptom_diarrhea,symptom_coughing,symptom_labored_breathing,symptom_nasal_discharge,symptom_eye_discharge,symptom_lameness,symptom_skin_lesions,symptom_weight_loss,symptom_swollen_joints,symptom_dehydration,Duration_days,Body_Temperature_C
+Dog,Labrador,4,Male,25.0,1,1,0,0,0,0,0,0,0,120,Parvovirus,parvovirus,parvovirus,parvovirus,1,1,1,1,0,0,0,0,0,0,0,0,0,0,3.0,39.5
+Cat,Siamese,2,Female,4.5,0,0,0,1,0,0,0,1,1,150,Upper Respiratory Infection,upper respiratory infection,upper respiratory infection,respiratory disease,0,0,0,0,0,1,0,1,1,0,0,0,0,0,7.0,38.9
+Cow,Holstein,3,Female,600.0,1,0,0,1,1,0,0,1,0,90,Foot and Mouth Disease,foot and mouth disease,foot and mouth disease,foot and mouth disease,1,0,0,0,0,1,1,1,0,0,0,0,0,0,5.0,40.1
+Dog,Beagle,1,Male,10.0,1,1,1,0,0,0,0,0,0,130,Gastroenteritis,gastroenteritis,gastroenteritis,gastrointestinal disease,0,1,1,1,1,0,0,0,0,0,0,0,0,0,2.0,39.2
+Cat,Persian,5,Male,3.8,1,0,0,0,0,0,1,0,0,160,Fungal Infection,fungal infection,fungal infection,other,0,1,1,0,0,0,0,0,0,0,1,0,0,0,14.0,38.7
+Horse,Thoroughbred,6,Female,500.0,1,0,0,1,1,0,0,1,0,85,Equine Influenza,equine influenza,influenza,influenza,1,0,0,0,0,1,1,1,0,0,0,0,0,0,10.0,39.8
+Dog,German Shepherd,3,Female,30.0,1,0,0,0,0,1,1,0,0,110,Lyme Disease,lyme disease,lyme disease,other,1,1,0,0,0,0,0,0,0,1,1,0,0,0,7.0,39.3
+Cat,Maine Coon,2,Male,6.0,1,1,1,0,0,0,0,0,0,140,Intestinal Parasites,intestinal parasites,intestinal parasites,other,0,1,1,1,1,0,0,0,0,0,0,0,0,0,4.0,39.1
+Dog,Bulldog,5,Male,23.0,1,0,0,1,1,0,0,1,0,115,Canine Distemper,distemper,distemper,distemper,0,0,1,0,0,1,1,1,0,0,0,0,0,0,6.0,40.0
+Cow,Jersey,4,Female,580.0,1,0,0,0,0,0,0,0,0,70,Mastitis,mastitis,mastitis,mastitis,1,1,0,0,0,0,0,0,0,0,0,0,0,0,8.0,39.6
+Cat,Siamese,3,Female,5.0,1,1,0,0,0,0,1,0,0,130,Panleukopenia,panleukopenia,panleukopenia,systemic viral disease,1,1,0,1,0,0,0,0,1,0,0,0,0,0,5.0,39.0
+Dog,Poodle,2,Female,12.0,1,1,0,1,0,0,0,0,0,115,Kennel Cough,kennel cough,kennel cough,respiratory disease,0,1,1,1,0,1,0,0,0,0,0,0,0,0,4.0,39.4
+Cat,Bengal,1,Male,4.2,1,1,1,0,0,0,0,0,0,140,Panleukopenia,panleukopenia,panleukopenia,systemic viral disease,0,1,1,1,1,0,0,0,0,0,0,0,0,0,3.0,38.8
+Horse,Arabian,8,Female,490.0,1,0,0,1,0,1,0,1,0,75,Strangles,strangles,strangles,other,1,0,0,0,0,1,0,1,0,1,0,0,0,0,7.0,39.9
+Cow,Hereford,5,Male,650.0,1,0,0,0,0,0,0,0,0,80,Bovine Respiratory Disease,bovine respiratory disease,respiratory disease,respiratory disease,1,1,1,0,0,0,0,0,0,0,0,0,0,0,5.0,39.7
+Dog,Chihuahua,4,Female,3.5,1,1,1,1,0,0,0,0,0,130,Canine Parvovirus,parvovirus,parvovirus,parvovirus,0,1,0,1,1,1,0,0,0,0,0,0,0,0,2.0,39.1
+Cat,Ragdoll,3,Male,5.0,1,1,0,0,0,0,1,0,0,155,Ringworm,ringworm,ringworm,other,0,1,1,1,0,0,0,0,0,0,1,0,0,0,10.0,38.6
+Dog,Siberian Husky,6,Male,28.0,1,0,0,0,0,1,1,0,0,120,Tick-Borne Disease,tick borne disease,tick borne disease,other,1,1,0,0,0,0,0,0,0,1,1,0,0,0,8.0,39.3
+Horse,Clydesdale,10,Male,700.0,1,0,0,1,1,0,0,1,0,85,Equine Influenza,equine influenza,influenza,influenza,1,0,0,0,0,1,1,1,0,0,0,0,0,0,14.0,40.2
+Cat,British Shorthair,5,Female,4.8,0,0,0,1,1,0,0,1,1,150,Upper Respiratory Infection,upper respiratory infection,upper respiratory infection,respiratory disease,0,1,1,0,0,0,0,1,1,0,0,0,0,0,7.0,39.0
+Cow,Angus,3,Female,590.0,1,0,0,0,0,0,0,0,0,70,Mastitis,mastitis,mastitis,mastitis,1,1,1,0,0,0,0,0,0,0,0,0,0,0,7.0,39.5
+Horse,Arabian,7,Male,450.0,1,0,0,1,1,0,0,0,0,90,Equine Influenza,equine influenza,influenza,influenza,1,1,1,0,0,0,1,0,0,0,0,0,0,0,5.0,39.7
+Dog,Poodle,2,Female,8.0,1,0,0,1,0,0,0,1,0,125,Kennel Cough,kennel cough,kennel cough,respiratory disease,0,1,1,0,0,1,0,1,0,0,0,0,0,0,4.0,39.1
+Cat,Bengal,3,Male,5.5,1,1,1,0,0,0,0,0,0,140,Panleukopenia,panleukopenia,panleukopenia,systemic viral disease,0,1,0,1,1,0,0,0,0,0,0,0,0,1,3.0,39.3
+Cow,Angus,5,Female,700.0,1,0,0,1,1,0,0,1,0,80,Bovine Respiratory Disease,bovine respiratory disease,respiratory disease,respiratory disease,1,1,0,0,0,0,0,1,0,0,0,0,0,0,7.0,39.8
+Dog,Golden Retriever,4,Male,30.0,1,0,0,0,0,1,0,0,0,110,Arthritis,arthritis,arthritis,arthritis,1,0,1,0,0,0,0,0,0,1,0,0,0,0,10.0,39.5
+Cat,Russian Blue,2,Female,4.5,0,0,0,1,0,0,0,1,1,150,Feline Herpesvirus,feline herpesvirus,herpesvirus,viral respiratory disease,0,0,0,0,0,1,0,1,1,0,0,0,0,0,5.0,38.8
+Horse,Quarter Horse,9,Female,480.0,1,0,0,1,1,0,0,0,0,85,Equine Rhinopneumonitis,equine rhinopneumonitis,rhinopneumonitis,other,1,0,0,0,0,1,1,1,0,0,0,0,0,0,6.0,39.9
+Dog,Chihuahua,1,Male,3.0,1,1,1,0,0,0,0,0,0,135,Parvovirus,parvovirus,parvovirus,parvovirus,1,1,0,1,1,0,0,0,0,0,0,0,0,0,3.0,39.4
+Cat,Ragdoll,6,Male,6.0,1,1,0,0,0,0,1,0,0,160,Feline Leukemia,feline leukemia,leukemia,other,0,1,1,1,0,0,0,0,0,0,0,1,0,0,14.0,39.0
+Cow,Hereford,3,Female,650.0,1,0,0,1,0,0,0,0,0,75,Mastitis,mastitis,mastitis,mastitis,1,1,0,0,0,0,0,1,0,0,0,0,0,0,8.0,39.6
+Dog,German Shepherd,5,Male,30.0,1,0,0,1,1,0,0,0,0,125,Heartworm Disease,heartworm disease,heartworm disease,other,0,1,1,0,0,1,1,0,0,0,0,0,0,0,6.0,39.6
+Cat,Maine Coon,6,Female,7.5,1,1,1,0,0,1,0,0,0,145,Feline Infectious Peritonitis,feline infectious peritonitis,infectious peritonitis,systemic viral disease,0,0,1,1,1,0,0,0,0,0,1,0,0,0,4.0,38.9
+Horse,Thoroughbred,9,Male,500.0,0,0,0,1,1,0,0,1,0,78,Equine Viral Arteritis,equine viral arteritis,viral arteritis,other,0,1,0,0,0,1,1,1,0,0,0,0,0,0,10.0,40.0
+Cow,Holstein,4,Female,580.0,1,0,1,0,0,0,0,0,0,82,Johne's Disease,johnes disease,johnes disease,other,0,1,1,0,1,0,0,0,0,0,0,0,0,0,7.0,39.4
+Dog,Beagle,2,Female,9.0,1,1,0,0,0,1,1,0,0,132,Canine Distemper,distemper,distemper,distemper,1,1,0,1,0,0,0,0,0,0,1,0,0,0,3.0,39.2
+Cat,Persian,8,Male,4.6,0,1,0,0,0,0,1,0,1,140,Conjunctivitis,conjunctivitis,conjunctivitis,other,0,1,1,1,0,0,0,0,1,0,0,0,0,0,2.0,39.0
+Horse,Appaloosa,6,Female,520.0,0,0,0,0,0,1,1,0,0,76,Equine Piroplasmosis,equine piroplasmosis,piroplasmosis,other,1,0,1,0,0,0,0,0,0,1,1,0,0,0,5.0,39.8
+Cow,Jersey,3,Male,620.0,1,0,1,0,0,0,0,0,0,79,Salmonellosis,salmonellosis,salmonellosis,other,0,1,1,0,1,0,0,0,0,0,0,0,0,0,8.0,39.7
+Dog,Dachshund,7,Male,5.5,1,0,0,1,1,0,0,0,0,120,Chronic Bronchitis,chronic bronchitis,chronic bronchitis,respiratory disease,0,1,1,0,0,1,1,0,0,0,0,0,0,0,14.0,39.5
+Cat,Sphynx,4,Female,3.2,0,0,0,1,1,0,0,1,1,150,Feline Upper Respiratory Infection,upper respiratory infection,upper respiratory infection,respiratory disease,0,1,1,0,0,0,0,1,1,0,0,0,0,0,7.0,39.3
+Dog,Golden Retriever,4,Female,28.0,1,0,1,1,0,1,0,0,0,130,Parvovirus,parvovirus,parvovirus,parvovirus,0,1,1,1,1,0,0,0,0,0,0,0,0,0,5.0,39.2
+Cat,British Shorthair,3,Male,5.5,1,0,0,1,1,0,0,0,1,145,Feline Upper Respiratory Infection,upper respiratory infection,upper respiratory infection,respiratory disease,0,0,1,0,0,1,0,1,1,0,0,0,0,0,4.0,38.7
+Horse,Arabian,10,Female,450.0,0,0,0,1,1,0,0,0,0,75,Equine Arthritis,equine arthritis,arthritis,arthritis,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8.0,39.4
+Cow,Angus,6,Male,600.0,0,0,0,1,1,0,0,0,0,82,Bovine Respiratory Disease,bovine respiratory disease,respiratory disease,respiratory disease,1,0,0,0,0,1,1,1,0,0,0,0,0,0,7.0,39.9
+Dog,Bulldog,5,Male,22.0,1,1,0,0,1,1,0,0,0,138,Gastroenteritis,gastroenteritis,gastroenteritis,gastrointestinal disease,1,0,1,1,1,0,0,0,0,0,0,0,0,0,3.0,39.6
+Cat,Siamese,2,Female,4.0,1,0,1,0,1,0,0,0,1,135,Feline Herpesvirus,feline herpesvirus,herpesvirus,viral respiratory disease,0,1,1,0,0,0,0,0,1,0,0,0,0,0,2.0,39.0
+Horse,Quarter Horse,12,Male,500.0,0,0,0,1,0,1,0,0,0,78,Equine Infectious Anemia,equine infectious anemia,infectious anemia,systemic viral disease,1,0,1,0,0,0,0,0,0,1,0,0,1,0,5.0,39.7
+Cow,Hereford,3,Female,570.0,1,0,0,0,0,1,0,0,0,80,Bovine Viral Diarrhea,bovine viral diarrhea,viral diarrhea,gastrointestinal disease,0,1,1,0,1,0,0,0,0,0,0,0,0,1,6.0,39.1
+Dog,Poodle,8,Male,15.0,1,0,1,0,1,0,0,0,1,126,Kennel Cough,kennel cough,kennel cough,respiratory disease,0,1,1,0,0,1,1,0,0,0,0,0,0,0,7.0,39.3
+Cat,Abyssinian,5,Female,4.5,0,1,0,1,0,1,0,1,0,142,Pancreatitis,pancreatitis,pancreatitis,gastrointestinal disease,0,0,1,1,1,0,0,0,0,0,0,0,0,1,3.0,38.5
+Horse,Clydesdale,15,Male,600.0,0,0,1,1,0,0,1,1,0,70,Equine Pneumonia,equine pneumonia,pneumonia,respiratory disease,0,1,1,0,0,1,1,0,0,0,0,0,0,0,10.0,39.8
+Cow,Brahman,7,Female,620.0,1,0,1,1,0,1,0,0,0,81,Mastitis,mastitis,mastitis,mastitis,1,1,0,0,0,1,0,0,0,0,0,0,0,0,5.0,39.6
+Dog,Husky,9,Male,25.0,1,1,0,1,1,0,0,0,0,124,Canine Parvovirus,parvovirus,parvovirus,parvovirus,0,1,1,1,1,0,0,0,0,0,0,0,0,0,4.0,39.1
+Cat,Ragdoll,4,Female,5.0,1,0,0,1,0,1,1,0,0,148,Feline Calicivirus,feline calicivirus,calicivirus,viral respiratory disease,0,1,0,0,0,1,0,1,1,0,0,0,0,0,6.0,38.6
+Horse,Morgan,11,Female,520.0,0,0,1,1,0,1,0,1,0,77,Laminitis,laminitis,laminitis,other,0,0,1,0,0,0,0,0,0,1,0,1,1,0,7.0,39.7
+Cow,Limousin,2,Male,550.0,1,0,0,1,1,0,1,0,0,85,Cryptosporidiosis,cryptosporidiosis,cryptosporidiosis,other,0,1,1,0,1,0,0,0,0,0,0,0,0,1,4.0,39.5
+Dog,Border Collie,3,Female,17.0,1,0,0,1,0,1,0,1,1,129,Bordetella Infection,bordetella infection,bordetella infection,other,1,0,0,0,0,1,1,1,0,0,0,0,0,0,8.0,39.4
+Cat,Devon Rex,6,Male,4.2,1,0,1,0,1,0,1,0,0,146,Inflammatory Bowel Disease,inflammatory bowel disease,inflammatory bowel disease,gastrointestinal disease,0,1,1,1,0,0,0,0,0,0,0,1,0,0,9.0,38.9
+Horse,Standardbred,7,Male,540.0,0,0,0,1,0,1,1,0,0,76,Degenerative Joint Disease,degenerative joint disease,degenerative joint disease,other,0,1,0,0,0,0,0,0,0,1,0,1,1,0,6.0,39.6
+Cow,Red Angus,5,Female,620.0,1,0,1,0,1,0,1,1,0,83,Bovine Leukemia Virus,bovine leukemia virus,leukemia virus,systemic viral disease,1,1,1,0,1,0,0,0,0,0,0,0,0,0,4.0,39.8
+Dog,Chihuahua,3,Male,2.5,1,0,0,1,0,0,1,0,1,131,Allergic Rhinitis,allergic rhinitis,allergic rhinitis,other,0,1,0,0,0,0,1,0,1,0,0,0,0,0,5.0,39.5
+Cat,Sphynx,5,Female,3.0,1,1,0,0,1,0,1,0,0,143,Gastroenteritis,gastroenteritis,gastroenteritis,gastrointestinal disease,0,0,1,1,1,0,0,0,0,0,0,1,0,0,6.0,38.7
+Horse,Shire,10,Female,680.0,0,0,1,1,0,1,0,0,0,74,Equine Leptospirosis,equine leptospirosis,leptospirosis,other,1,1,1,0,0,0,0,0,0,0,0,1,0,0,10.0,39.9
+Cow,Guernsey,4,Male,590.0,1,0,0,1,0,0,1,0,0,84,Bovine Coccidiosis,bovine coccidiosis,coccidiosis,gastrointestinal disease,0,1,1,0,1,0,0,0,0,0,0,0,0,1,5.0,39.3
+Dog,Dachshund,7,Female,8.0,1,1,0,1,1,0,0,1,1,120,Gastroenteritis,gastroenteritis,gastroenteritis,gastrointestinal disease,0,0,1,1,1,0,0,0,0,0,0,1,0,0,3.0,39.2
+Cat,Maine Coon,9,Male,6.5,1,1,1,0,0,0,1,1,0,140,Feline Renal Disease,feline renal disease,renal disease,other,0,1,1,0,0,0,0,0,0,0,0,1,0,1,8.0,39.0
+Horse,Thoroughbred,14,Male,520.0,0,1,1,0,1,0,0,1,0,72,Equine Influenza,equine influenza,influenza,influenza,1,0,0,0,0,1,1,0,0,0,0,1,0,0,12.0,39.7
+Cow,Jersey,6,Female,600.0,1,0,0,1,0,1,0,0,0,86,Bovine Respiratory Syncytial Virus,bovine respiratory syncytial virus,respiratory syncytial virus,viral respiratory disease,1,1,0,0,0,0,0,1,0,0,0,0,0,0,5.0,39.4
+Dog,Labrador Retriever,11,Male,35.0,1,0,0,1,0,1,0,1,0,118,Canine Distemper,distemper,distemper,distemper,1,1,1,1,0,0,0,0,0,0,0,0,0,0,7.0,39.3
+Cat,Persian,8,Female,5.0,1,0,1,0,1,0,1,0,0,147,Feline Viral Rhinotracheitis,feline viral rhinotracheitis,viral rhinotracheitis,viral respiratory disease,0,0,1,0,0,1,0,1,1,0,0,0,0,0,4.0,38.9
+Dog,German Shepherd,6,Female,30.0,1,0,1,0,1,0,0,0,1,125,Kennel Cough,kennel cough,kennel cough,respiratory disease,0,1,1,0,0,1,1,0,0,0,0,0,0,0,6.0,39.4
+Cat,Scottish Fold,4,Male,4.8,1,0,0,1,1,0,1,0,1,137,Feline Herpesvirus,feline herpesvirus,herpesvirus,viral respiratory disease,0,1,1,0,0,0,0,0,1,0,0,0,0,0,5.0,38.7
+Horse,Appaloosa,10,Female,510.0,0,0,1,1,0,1,0,0,0,74,Equine Laminitis,equine laminitis,laminitis,other,1,0,1,0,0,0,0,0,0,1,0,0,1,0,9.0,39.8
+Cow,Holstein,7,Male,590.0,0,0,0,1,1,0,1,0,0,80,Bovine Pneumonia,bovine pneumonia,pneumonia,respiratory disease,0,1,0,0,0,1,1,1,0,0,0,0,0,0,4.0,39.9
+Dog,Beagle,5,Male,10.0,1,1,0,0,0,1,0,1,0,132,Gastroenteritis,gastroenteritis,gastroenteritis,gastrointestinal disease,1,0,1,1,1,0,0,0,0,0,0,0,0,0,3.0,39.2
+Cat,Bengal,3,Female,4.2,1,0,1,1,0,1,0,0,0,145,Feline Panleukopenia,parvovirus,parvovirus,parvovirus,0,1,0,1,1,0,0,0,0,0,0,0,0,1,6.0,39.1
+Horse,Arabian,13,Male,490.0,0,0,0,1,1,0,0,1,0,78,Equine Influenza,equine influenza,influenza,influenza,1,1,0,0,0,0,1,1,0,0,0,0,0,0,8.0,39.6
+Cow,Simmental,8,Female,630.0,0,1,0,0,1,1,1,0,0,83,Johne's Disease,johnes disease,johnes disease,other,0,1,1,0,0,0,0,0,0,0,0,1,0,0,7.0,39.5
+Dog,Rottweiler,7,Female,35.0,1,0,1,0,1,0,0,0,1,127,Parvovirus,parvovirus,parvovirus,parvovirus,0,0,1,1,1,0,0,0,0,0,0,0,0,1,3.0,39.0
+Cat,Siberian,2,Male,5.5,1,0,1,0,0,1,0,1,0,144,Feline Calicivirus,feline calicivirus,calicivirus,viral respiratory disease,0,0,0,0,0,1,0,1,1,0,0,0,0,0,4.0,38.6
+Horse,American Quarter,14,Female,520.0,0,0,1,1,1,0,0,0,0,75,Equine Arthritis,equine arthritis,arthritis,arthritis,1,0,1,0,0,0,0,0,0,1,0,0,1,0,10.0,39.7
+Cow,Shorthorn,5,Male,600.0,1,0,0,1,0,1,0,0,1,84,Salmonellosis,salmonellosis,salmonellosis,other,0,1,1,0,1,0,0,0,0,0,0,0,0,1,5.0,39.4
+Dog,Shih Tzu,4,Female,7.0,1,0,1,0,1,1,0,0,0,133,Canine Flu,canine flu,flu,influenza,0,1,1,0,0,1,1,0,0,0,0,0,0,0,6.0,39.3
+Cat,American Curl,5,Male,3.7,1,1,0,0,1,1,0,0,0,148,Pancreatitis,pancreatitis,pancreatitis,gastrointestinal disease,0,0,0,1,1,0,0,0,0,0,0,1,0,1,3.0,38.8
+Horse,Percheron,12,Male,600.0,0,0,0,1,1,0,0,1,0,72,Equine Infectious Anemia,equine infectious anemia,infectious anemia,systemic viral disease,0,0,1,0,0,0,0,0,0,1,0,1,1,0,5.0,39.9
+Cow,Brahman,3,Female,570.0,1,0,0,1,0,1,0,0,1,86,Respiratory Syncytial Virus,respiratory syncytial virus,respiratory syncytial virus,viral respiratory disease,1,1,0,0,0,1,0,1,0,0,0,0,0,0,4.0,39.8
+Dog,Chihuahua,9,Male,2.0,1,1,0,0,0,1,0,0,1,128,Gastroenteritis,gastroenteritis,gastroenteritis,gastrointestinal disease,0,1,1,1,1,0,0,0,0,0,0,0,0,0,2.0,39.1
+Cat,Manx,4,Female,3.3,1,0,0,1,0,1,1,0,0,138,Feline Herpesvirus,feline herpesvirus,herpesvirus,viral respiratory disease,0,0,0,0,0,1,0,1,1,0,0,0,0,0,6.0,38.5
+Horse,Tennessee Walker,16,Female,530.0,0,0,1,1,0,1,1,0,0,71,Equine Cushing's Disease,equine cushings disease,cushings disease,other,1,1,1,0,0,0,0,0,0,0,0,1,0,0,8.0,39.6
+Cow,Jersey,6,Male,620.0,1,0,1,0,1,1,0,0,0,87,Tuberculosis,tuberculosis,tuberculosis,tuberculosis,0,1,1,0,0,0,0,0,0,0,0,1,0,0,7.0,39.4
+Dog,Dalmatian,8,Female,20.0,1,0,1,0,1,0,0,1,0,120,Pancreatitis,pancreatitis,pancreatitis,gastrointestinal disease,0,0,0,1,1,0,0,0,0,0,0,1,0,1,4.0,39.0
+Cat,Bombay,6,Male,4.0,1,0,0,1,1,0,1,0,0,149,Hyperthyroidism,hyperthyroidism,hyperthyroidism,other,0,1,1,1,0,0,0,0,0,0,0,1,0,0,5.0,38.9
+Horse,Welsh Pony,10,Male,450.0,0,0,1,1,1,0,0,1,0,76,Equine Arthritis,equine arthritis,arthritis,arthritis,0,0,1,0,0,0,0,0,0,1,0,1,1,0,9.0,39.8
+Cow,Brown Swiss,3,Female,580.0,1,1,0,0,0,1,0,0,1,85,Coccidiosis,coccidiosis,coccidiosis,gastrointestinal disease,0,1,1,0,1,0,0,0,0,0,0,0,0,1,5.0,39.3
+Dog,Akita,6,Male,35.0,1,0,1,0,1,1,0,0,1,130,Canine Hepatitis,canine hepatitis,hepatitis,other,1,1,1,1,0,0,0,0,0,0,0,0,0,0,6.0,39.5
+Cat,British Shorthair,7,Female,4.4,1,0,0,1,0,1,1,0,0,142,Upper Respiratory Infection,upper respiratory infection,upper respiratory infection,respiratory disease,0,1,0,0,0,0,0,1,1,0,0,0,0,0,4.0,38.6
+Horse,Morgan,11,Female,530.0,0,1,1,0,1,0,0,1,0,74,Equine Encephalitis,equine encephalitis,encephalitis,other,1,0,1,0,0,0,0,0,0,0,0,1,1,0,8.0,39.7
+Cow,Guernsey,5,Male,610.0,1,0,1,0,0,1,0,0,1,82,Bovine Influenza,bovine influenza,influenza,influenza,1,0,0,0,0,1,1,1,0,0,0,0,0,0,3.0,39.9
+Dog,Boxer,8,Female,27.0,1,1,0,0,1,0,0,1,0,131,Gastroenteritis,gastroenteritis,gastroenteritis,gastrointestinal disease,0,1,1,1,1,0,0,0,0,0,0,0,0,0,4.0,39.2
+Cat,Abyssinian,4,Male,4.5,1,0,0,1,1,0,0,1,0,140,Feline Calicivirus,feline calicivirus,calicivirus,viral respiratory disease,0,1,0,0,0,0,0,1,1,0,0,0,0,0,5.0,38.8
+Dog,Golden Retriever,5,Male,32.0,1,0,1,0,1,0,0,0,1,130,Gastroenteritis,gastroenteritis,gastroenteritis,gastrointestinal disease,0,1,1,1,1,0,0,0,0,0,0,0,0,0,3.0,39.2
+Cat,Persian,7,Female,4.1,1,0,0,1,1,0,1,0,1,142,Feline Upper Respiratory Infection,upper respiratory infection,upper respiratory infection,respiratory disease,0,1,0,0,0,0,0,1,1,0,0,0,0,0,4.0,38.9
+Horse,Thoroughbred,15,Male,480.0,0,1,0,0,1,1,0,1,0,75,Equine Arthritis,equine arthritis,arthritis,arthritis,1,0,1,0,0,0,0,0,0,1,0,0,1,0,7.0,39.7
+Cow,Limousin,6,Female,620.0,1,1,0,1,0,1,0,0,1,85,Johne's Disease,johnes disease,johnes disease,other,0,1,1,0,0,0,0,0,0,0,0,1,0,0,10.0,39.4
+Rabbit,Holland Lop,3,Female,1.8,0,1,0,1,1,0,0,1,0,160,Snuffles,snuffles,snuffles,respiratory disease,0,1,1,0,0,0,0,1,0,0,0,0,0,0,5.0,38.6
+Sheep,Merino,4,Male,75.0,1,0,0,1,0,1,1,0,0,78,Pneumonia,pneumonia,pneumonia,respiratory disease,1,0,0,0,0,1,1,1,0,0,0,0,0,0,4.0,40.0
+Goat,Boer,5,Female,68.0,1,0,1,0,0,1,0,0,1,82,Coccidiosis,coccidiosis,coccidiosis,gastrointestinal disease,0,1,1,0,1,0,0,0,0,0,0,0,0,1,6.0,39.3
+Pig,Yorkshire,2,Male,110.0,0,1,0,1,1,0,0,1,1,85,Porcine Epidemic Diarrhea,porcine epidemic diarrhea,epidemic diarrhea,gastrointestinal disease,1,0,1,1,1,0,0,0,0,0,0,0,0,0,3.0,39.5
+Dog,Dachshund,4,Female,9.0,1,0,1,0,1,1,0,0,0,132,Parvovirus,parvovirus,parvovirus,parvovirus,0,1,1,1,0,0,0,0,0,0,0,0,0,1,3.0,39.0
+Cat,Siamese,6,Male,4.2,1,0,0,1,0,1,1,0,1,140,Feline Calicivirus,feline calicivirus,calicivirus,viral respiratory disease,0,1,0,0,0,1,0,0,1,0,0,0,0,0,4.0,38.7
+Horse,Clydesdale,12,Female,600.0,0,0,1,0,1,1,0,1,0,77,Equine Laminitis,equine laminitis,laminitis,other,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.6
+Cow,Angus,8,Male,580.0,1,0,0,1,0,1,0,0,1,83,Bovine Respiratory Disease,bovine respiratory disease,respiratory disease,respiratory disease,0,1,0,0,0,1,1,1,0,0,0,0,0,0,5.0,40.0
+Rabbit,Mini Rex,2,Male,1.6,0,1,0,1,0,1,0,0,1,155,Enteritis,enteritis,enteritis,gastrointestinal disease,0,0,1,0,1,0,0,0,0,0,0,1,0,1,3.0,38.5
+Sheep,Suffolk,3,Female,80.0,1,0,1,0,0,1,0,1,0,77,Scrapie,scrapie,scrapie,scrapie,0,1,1,0,0,0,0,0,0,0,0,1,0,0,8.0,39.8
+Goat,Alpine,4,Male,72.0,0,1,0,0,1,1,0,0,1,83,Caprine Arthritis Encephalitis,caprine arthritis encephalitis,arthritis encephalitis,systemic viral disease,1,1,1,0,0,0,0,0,0,0,0,1,0,0,7.0,39.7
+Pig,Duroc,3,Female,115.0,1,0,1,0,0,1,1,0,0,80,Swine Influenza,swine influenza,influenza,influenza,0,0,0,0,0,1,1,1,0,0,0,0,0,0,5.0,40.0
+Dog,Corgi,5,Male,11.0,1,0,1,0,0,1,0,1,0,134,Pancreatitis,pancreatitis,pancreatitis,gastrointestinal disease,0,1,0,1,1,0,0,0,0,0,0,1,0,0,3.0,39.2
+Cat,Burmese,8,Female,4.5,1,0,1,1,0,1,0,0,1,139,Feline Viral Rhinotracheitis,feline viral rhinotracheitis,viral rhinotracheitis,viral respiratory disease,0,1,0,0,0,0,0,1,1,0,0,0,0,0,6.0,38.6
+Horse,Paint,14,Male,500.0,0,1,0,1,1,0,0,1,0,76,Equine Osteoarthritis,equine osteoarthritis,osteoarthritis,other,0,0,1,0,0,0,0,0,0,1,0,1,1,0,10.0,39.5
+Cow,Hereford,7,Female,590.0,1,1,0,0,1,0,0,1,0,84,Bovine Johne's Disease,bovine johnes disease,johnes disease,other,0,1,1,0,1,0,0,0,0,0,0,0,0,1,6.0,39.3
+Rabbit,Flemish Giant,5,Female,6.8,1,0,1,0,1,1,0,0,1,150,Gastrointestinal Stasis,gastrointestinal stasis,gastrointestinal stasis,gastrointestinal disease,0,1,1,0,1,0,0,0,0,0,0,1,0,0,5.0,39.0
+Sheep,Dorper,6,Male,65.0,0,0,1,1,0,1,1,0,1,80,Pasteurellosis,pasteurellosis,pasteurellosis,respiratory disease,0,0,1,0,0,1,1,1,0,0,0,0,0,0,4.0,39.9
+Goat,Nubian,3,Female,70.0,1,1,0,0,0,1,0,1,1,81,Giardiasis,giardiasis,giardiasis,other,0,1,1,0,1,0,0,0,0,0,0,0,0,1,5.0,39.4
+Dog,Poodle,7,Female,15.0,1,0,1,0,0,1,0,1,0,125,Canine Parvovirus,parvovirus,parvovirus,parvovirus,0,1,1,1,1,0,0,0,0,0,0,0,0,0,4.0,39.1
+Cat,Maine Coon,5,Male,5.2,1,1,0,1,0,0,0,1,0,140,Feline Respiratory Disease Complex,feline respiratory disease complex,respiratory disease complex,respiratory disease,0,1,0,0,0,0,0,1,1,0,0,0,0,0,3.0,38.8
+Horse,Arabian,9,Female,460.0,0,1,0,0,1,1,0,1,1,78,Equine Lyme Disease,equine lyme disease,lyme disease,other,0,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.6
+Cow,Jersey,6,Male,570.0,1,0,1,0,1,0,0,1,1,81,Bovine Tuberculosis,bovine tuberculosis,tuberculosis,tuberculosis,1,0,0,0,0,1,1,1,0,0,0,0,0,0,5.0,39.4
+Rabbit,English Angora,4,Female,2.1,1,0,0,1,1,0,1,0,1,150,Rabbit Viral Hemorrhagic Disease,rabbit viral hemorrhagic disease,viral hemorrhagic disease,systemic viral disease,0,1,0,0,0,0,0,1,0,0,0,1,0,0,3.0,38.6
+Sheep,Cheviot,5,Male,85.0,1,1,0,0,1,0,0,0,1,79,Foot-and-Mouth Disease,foot and mouth disease,foot and mouth disease,foot and mouth disease,0,1,1,0,0,0,0,0,0,0,0,1,0,0,7.0,39.2
+Goat,Toggenburg,7,Female,65.0,1,1,0,1,0,1,0,1,0,80,Coccidiosis,coccidiosis,coccidiosis,gastrointestinal disease,0,1,1,0,1,0,0,0,0,0,0,0,0,1,5.0,39.3
+Pig,Berkshire,2,Male,115.0,1,0,0,1,1,0,1,0,1,85,Actinobacillus Pleuropneumonia,actinobacillus pleuropneumonia,actinobacillus pleuropneumonia,respiratory disease,1,1,0,0,0,1,0,1,0,0,0,0,0,0,4.0,39.8
+Dog,Shih Tzu,8,Female,8.0,1,0,1,1,0,0,0,0,1,130,Canine Hepatitis,canine hepatitis,hepatitis,other,0,1,1,1,1,0,0,0,0,0,0,0,0,0,5.0,39.0
+Cat,Scottish Fold,4,Male,4.3,1,0,1,0,0,1,0,1,1,143,Feline Rhinotracheitis,feline rhinotracheitis,rhinotracheitis,viral respiratory disease,0,1,0,0,0,0,0,1,1,0,0,0,0,0,3.0,38.7
+Horse,Belgian,13,Female,650.0,0,1,0,1,1,0,0,0,1,74,Equine Infectious Anemia,equine infectious anemia,infectious anemia,systemic viral disease,1,0,0,0,0,0,0,0,0,1,0,1,1,0,8.0,39.5
+Cow,Brown Swiss,9,Male,600.0,1,0,1,1,0,1,0,0,1,80,Bovine Respiratory Disease,bovine respiratory disease,respiratory disease,respiratory disease,1,0,0,0,0,1,1,1,0,0,0,0,0,0,6.0,39.6
+Rabbit,Himalayan,3,Male,1.9,0,1,0,1,1,1,1,1,0,160,Respiratory Infection,upper respiratory infection,upper respiratory infection,respiratory disease,0,1,0,0,0,0,0,1,1,0,0,0,0,0,2.0,38.4
+Sheep,Romney,6,Female,78.0,1,1,0,1,0,0,1,1,0,76,Scrapie,scrapie,scrapie,scrapie,0,1,1,0,0,0,0,0,0,0,0,1,1,0,9.0,39.7
+Goat,Kiko,3,Male,75.0,0,1,1,0,1,1,0,1,1,82,Caprine Respiratory Disease,caprine respiratory disease,respiratory disease,respiratory disease,1,0,1,0,0,0,0,1,0,0,0,1,0,0,6.0,39.2
+Pig,Tamworth,4,Female,120.0,1,1,0,1,1,0,1,0,0,84,Swine Dysentery,swine dysentery,dysentery,other,1,0,1,1,1,0,0,0,0,0,0,0,0,0,5.0,39.6
+Dog,Beagle,6,Male,13.0,1,0,0,1,1,1,0,1,0,127,Kennel Cough,kennel cough,kennel cough,respiratory disease,1,0,0,0,0,1,1,1,0,0,0,0,0,0,4.0,39.4
+Cat,Russian Blue,5,Female,4.7,1,1,0,0,0,1,0,1,1,145,Feline Respiratory Infection,upper respiratory infection,upper respiratory infection,respiratory disease,0,1,0,0,0,0,0,1,1,0,0,0,0,0,5.0,38.6
+Horse,Shetland Pony,11,Male,300.0,1,1,0,1,0,1,0,1,0,80,Equine Osteoarthritis,equine osteoarthritis,osteoarthritis,other,0,0,1,0,0,0,0,0,0,1,0,1,1,0,7.0,39.6
+Cow,Holstein,7,Female,650.0,1,0,0,1,1,0,0,1,0,79,Bovine Tuberculosis,bovine tuberculosis,tuberculosis,tuberculosis,1,0,1,0,0,1,0,1,0,0,0,0,0,0,5.0,39.4
+Rabbit,Dutch,2,Female,1.4,1,0,1,1,0,1,0,0,1,155,Upper Respiratory Infection,upper respiratory infection,upper respiratory infection,respiratory disease,0,1,1,0,0,0,0,1,0,0,0,0,0,0,3.0,38.8
+Sheep,Lincoln,8,Male,95.0,0,1,0,1,1,0,1,0,1,75,Footrot,footrot,footrot,other,1,1,1,0,0,0,0,0,0,0,0,0,1,0,6.0,39.9
+Goat,LaMancha,5,Female,72.0,1,0,1,0,0,1,0,1,0,82,Gastrointestinal Infection,gastrointestinal infection,gastrointestinal infection,gastrointestinal disease,0,1,1,0,1,0,0,0,0,0,0,0,0,1,7.0,39.2
+Pig,Poland China,3,Male,110.0,0,1,1,0,1,0,1,0,1,87,Actinobacillus Pleuropneumonia,actinobacillus pleuropneumonia,actinobacillus pleuropneumonia,respiratory disease,1,0,0,0,0,1,0,1,0,0,0,1,0,0,6.0,39.8
+Dog,Golden Retriever,7,Male,30.0,1,0,1,1,0,0,1,0,0,118,Canine Parvovirus,parvovirus,parvovirus,parvovirus,0,1,1,1,1,0,0,0,0,0,0,0,0,0,6.0,39.5
+Cat,Sphynx,4,Male,5.2,1,1,1,0,1,1,0,0,0,148,Feline Infectious Peritonitis,feline infectious peritonitis,infectious peritonitis,systemic viral disease,0,1,1,1,1,0,0,0,0,0,0,0,0,0,5.0,39.1
+Horse,Clydesdale,15,Female,700.0,0,1,0,1,1,0,1,1,1,77,Equine Metabolic Syndrome,equine metabolic syndrome,metabolic syndrome,other,0,1,0,0,0,0,0,0,0,1,0,1,1,0,8.0,39.5
+Cow,Simmental,8,Male,580.0,1,1,1,1,0,1,0,0,1,80,Bovine Johne's Disease,bovine johnes disease,johnes disease,other,1,1,1,0,0,0,0,0,0,0,0,1,0,0,6.0,39.3
+Rabbit,Mini Rex,1,Female,1.2,1,0,1,0,1,0,1,0,0,165,Pasteurellosis,pasteurellosis,pasteurellosis,respiratory disease,0,1,1,0,0,0,0,1,0,0,0,0,0,0,2.0,38.7
+Dog,Rottweiler,5,Female,42.0,1,1,0,1,0,1,1,0,0,120,Canine Parvovirus,parvovirus,parvovirus,parvovirus,0,1,1,1,0,1,0,0,0,0,0,0,0,0,4.0,39.2
+Cat,Bengal,3,Male,5.5,1,1,0,1,0,1,0,0,1,140,Feline Calicivirus,feline calicivirus,calicivirus,viral respiratory disease,0,1,0,0,0,1,0,1,0,0,0,0,0,0,5.0,38.9
+Horse,Thoroughbred,7,Female,480.0,0,1,1,0,1,1,0,1,0,75,Equine Influenza,equine influenza,influenza,influenza,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.6
+Cow,Angus,6,Male,550.0,1,0,1,1,1,0,1,0,0,82,Bovine Respiratory Disease,bovine respiratory disease,respiratory disease,respiratory disease,1,0,0,0,0,1,0,1,0,0,0,1,0,0,7.0,39.4
+Rabbit,Himalayan,2,Male,1.6,1,1,0,1,0,0,1,0,0,150,Rabbit Hemorrhagic Disease,rabbit hemorrhagic disease,hemorrhagic disease,systemic viral disease,0,1,1,0,0,0,0,1,0,0,0,0,0,0,3.0,38.5
+Sheep,Texel,4,Female,85.0,1,0,0,1,0,0,1,1,0,76,Blue Tongue Virus,bluetongue,bluetongue,systemic viral disease,0,0,1,0,1,0,0,0,0,1,0,0,1,0,5.0,39.3
+Goat,Alpine,5,Male,72.0,1,1,0,1,0,0,1,1,0,81,Caprine Arthritis Encephalitis,caprine arthritis encephalitis,arthritis encephalitis,systemic viral disease,1,0,1,1,1,0,0,0,0,0,0,0,0,0,6.0,39.0
+Pig,Duroc,3,Female,100.0,1,0,1,0,1,1,0,0,1,88,Swine Influenza,swine influenza,influenza,influenza,0,1,1,0,0,1,0,1,0,0,0,0,0,0,4.0,39.5
+Dog,Doberman Pinscher,6,Male,40.0,1,1,0,1,0,0,1,1,0,119,Canine Distemper,distemper,distemper,distemper,0,1,1,1,0,1,0,0,0,0,0,0,0,0,5.0,39.3
+Cat,Siamese,4,Female,4.2,1,0,1,1,0,1,0,1,1,145,Feline Leukemia Virus,feline leukemia,leukemia,other,1,1,1,0,0,0,0,1,0,0,0,0,0,0,6.0,38.8
+Horse,Pinto,9,Male,530.0,0,1,0,1,1,0,0,1,0,77,Equine Infectious Anemia,equine infectious anemia,infectious anemia,systemic viral disease,0,0,1,0,0,1,0,0,0,1,0,0,1,0,7.0,39.7
+Cow,Charolais,5,Female,620.0,1,1,1,0,1,0,0,1,1,81,Bovine Tuberculosis,bovine tuberculosis,tuberculosis,tuberculosis,1,1,0,0,0,1,0,1,0,0,0,0,0,0,4.0,39.6
+Rabbit,Mini Lop,1,Female,1.2,1,1,1,1,0,0,1,0,0,155,Myxomatosis,myxomatosis,myxomatosis,systemic viral disease,0,1,1,0,0,0,0,1,0,0,0,0,0,0,2.0,38.7
+Sheep,Suffolk,6,Male,90.0,1,1,0,1,0,1,0,1,0,78,Caseous Lymphadenitis,caseous lymphadenitis,caseous lymphadenitis,other,0,1,1,0,0,1,0,0,0,0,0,0,1,0,5.0,39.4
+Goat,Boer,3,Female,70.0,1,0,1,0,1,1,0,1,1,80,Caprine Pleuropneumonia,caprine pleuropneumonia,pleuropneumonia,respiratory disease,1,0,1,1,1,0,0,0,0,0,0,0,0,0,5.0,39.5
+Pig,Landrace,5,Male,120.0,1,1,0,0,1,0,1,1,0,85,Actinobacillus Pleuropneumonia,actinobacillus pleuropneumonia,actinobacillus pleuropneumonia,respiratory disease,0,1,1,0,0,1,0,1,0,0,0,0,0,0,6.0,39.2
+Dog,Pit Bull,4,Female,35.0,1,1,0,1,0,1,0,0,0,125,Leptospirosis,leptospirosis,leptospirosis,other,0,1,1,1,0,1,0,0,0,0,0,0,0,0,3.0,39.0
+Cat,Persian,5,Male,5.0,1,1,0,1,0,1,1,0,1,148,Feline Herpesvirus,feline herpesvirus,herpesvirus,viral respiratory disease,0,1,0,0,0,0,0,1,1,0,0,0,0,0,4.0,38.9
+Horse,Mustang,12,Male,550.0,0,1,1,0,1,0,1,0,1,80,Equine Laminitis,equine laminitis,laminitis,other,1,0,1,0,0,0,0,0,0,1,0,0,1,0,5.0,39.6
+Cow,Hereford,7,Female,580.0,1,0,1,1,0,1,1,1,1,80,Bovine Johne's Disease,bovine johnes disease,johnes disease,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.5
+Rabbit,Holland Lop,3,Male,1.3,1,1,0,0,1,0,1,1,0,160,Rabbit Syphilis,rabbit syphilis,syphilis,other,1,1,1,0,0,0,0,1,0,0,0,0,0,0,4.0,38.6
+Sheep,Border Leicester,5,Male,90.0,1,1,0,1,0,1,0,1,1,74,Chlamydia in Sheep,chlamydia in sheep,chlamydia in sheep,other,0,1,1,0,0,0,0,1,0,0,0,0,1,0,5.0,39.7
+Goat,Nubian,6,Female,60.0,1,0,1,1,0,1,0,0,0,82,Caprine Respiratory Disease,caprine respiratory disease,respiratory disease,respiratory disease,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5.0,39.3
+Pig,Wessex Saddleback,3,Male,105.0,1,1,0,1,1,0,1,0,1,84,Actinobacillus Suis,actinobacillus suis,actinobacillus suis,other,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5.0,39.0
+Dog,Cocker Spaniel,5,Female,20.0,1,1,0,0,1,0,0,1,0,123,Canine Leptospirosis,canine leptospirosis,leptospirosis,other,1,1,1,1,0,0,0,0,0,0,0,0,0,0,4.0,39.2
+Cat,Scottish Fold,4,Male,4.8,1,0,1,0,0,1,0,1,1,147,Feline Chlamydia,feline chlamydia,chlamydia,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,38.8
+Horse,Arabian,6,Female,500.0,0,1,1,1,0,0,1,1,0,79,Equine West Nile Virus,equine west nile virus,west nile virus,systemic viral disease,0,0,1,0,0,1,0,0,0,1,0,0,1,0,6.0,39.4
+Cow,Jersey,5,Female,500.0,1,1,1,0,1,0,0,1,1,81,Bovine Viral Diarrhea,bovine viral diarrhea,viral diarrhea,gastrointestinal disease,1,1,0,0,0,1,0,1,0,0,0,0,0,0,5.0,39.5
+Rabbit,English Angora,2,Male,1.5,1,0,0,1,1,0,1,0,0,153,Myxomatosis,myxomatosis,myxomatosis,systemic viral disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,3.0,38.9
+Dog,German Shepherd,4,Female,45.0,1,0,1,1,0,1,1,0,0,120,Canine Parvovirus,parvovirus,parvovirus,parvovirus,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.4
+Cat,Maine Coon,3,Male,7.5,1,1,0,1,1,1,0,1,0,148,Feline Infectious Peritonitis,feline infectious peritonitis,infectious peritonitis,systemic viral disease,0,1,1,1,1,0,0,0,0,0,0,0,0,0,4.0,39.1
+Horse,Clydesdale,9,Male,850.0,0,1,1,0,1,0,1,1,0,79,Equine Rhinopneumonitis,equine rhinopneumonitis,rhinopneumonitis,other,1,0,1,0,0,1,0,0,0,1,0,0,0,0,6.0,39.2
+Cow,Holstein,5,Female,620.0,1,0,1,1,0,1,1,0,1,82,Bovine Respiratory Syncytial Virus,bovine respiratory syncytial virus,respiratory syncytial virus,viral respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,7.0,39.3
+Rabbit,English Spot,2,Female,1.3,1,0,1,1,0,0,1,1,0,155,Rabbit Syphilis,rabbit syphilis,syphilis,other,1,0,1,0,0,0,0,1,0,0,0,0,0,0,3.0,38.8
+Sheep,Finnsheep,4,Male,70.0,1,0,1,1,0,1,0,1,1,75,Scrapie,scrapie,scrapie,scrapie,0,1,1,0,0,1,0,0,0,0,0,0,1,0,5.0,39.0
+Goat,Saanen,5,Female,65.0,1,1,0,0,1,1,0,1,1,80,Caprine Pleuropneumonia,caprine pleuropneumonia,pleuropneumonia,respiratory disease,1,0,1,1,1,0,0,0,0,0,0,0,0,0,6.0,39.4
+Pig,Tamworth,3,Male,100.0,1,1,0,1,1,0,1,0,0,85,Porcine Epidemic Diarrhea,porcine epidemic diarrhea,epidemic diarrhea,gastrointestinal disease,0,1,1,0,0,1,0,1,0,0,0,0,0,0,4.0,39.6
+Dog,Poodle,6,Male,25.0,1,1,0,1,0,0,1,1,0,110,Canine Distemper,distemper,distemper,distemper,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.3
+Cat,Russian Blue,3,Female,4.8,1,0,1,0,1,0,1,1,0,145,Feline Leukemia Virus,feline leukemia,leukemia,other,0,1,1,0,0,1,0,1,0,0,0,0,0,0,4.0,38.9
+Horse,Shetland Pony,8,Female,300.0,1,1,0,1,0,1,1,0,0,76,Equine Herpesvirus,equine herpesvirus,herpesvirus,viral respiratory disease,1,0,1,0,0,0,0,0,0,1,0,0,1,0,5.0,39.5
+Cow,Guernsey,7,Male,590.0,1,0,0,1,1,1,1,0,1,78,Bovine Tuberculosis,bovine tuberculosis,tuberculosis,tuberculosis,0,1,1,0,0,1,0,0,0,0,0,0,1,0,6.0,39.1
+Rabbit,Mini Rex,1,Female,1.1,1,1,0,1,0,0,1,0,0,160,Myxomatosis,myxomatosis,myxomatosis,systemic viral disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,2.0,38.7
+Sheep,Leicester Longwool,6,Male,95.0,1,0,1,0,1,0,0,1,0,74,Chlamydia in Sheep,chlamydia in sheep,chlamydia in sheep,other,0,1,1,0,0,1,0,0,0,0,0,0,1,0,5.0,39.4
+Goat,Nigerian Dwarf,2,Female,55.0,1,1,0,1,0,0,1,0,1,82,Caprine Arthritis Encephalitis,caprine arthritis encephalitis,arthritis encephalitis,systemic viral disease,1,1,1,1,0,0,0,0,0,0,0,0,0,0,4.0,39.2
+Pig,Large White,6,Female,115.0,1,0,1,1,1,0,1,0,0,83,Swine Influenza,swine influenza,influenza,influenza,0,1,1,0,0,1,0,1,0,0,0,0,0,0,7.0,39.7
+Dog,Golden Retriever,7,Male,33.0,1,1,1,0,1,1,0,0,1,118,Canine Leptospirosis,canine leptospirosis,leptospirosis,other,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5.0,39.2
+Cat,Burmese,4,Male,4.3,1,0,0,1,0,1,1,0,1,150,Feline Calicivirus,feline calicivirus,calicivirus,viral respiratory disease,0,1,1,0,0,1,0,1,0,0,0,0,0,0,3.0,39.0
+Horse,Welsh Pony,5,Female,400.0,0,1,1,0,1,0,1,1,0,78,Equine Influenza,equine influenza,influenza,influenza,1,0,1,0,0,0,0,0,0,1,0,0,1,0,4.0,39.4
+Cow,Aberdeen Angus,6,Female,620.0,1,0,1,0,1,1,1,1,0,80,Bovine Respiratory Disease,bovine respiratory disease,respiratory disease,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.2
+Rabbit,Himalayan,2,Male,1.2,1,1,0,1,0,0,1,0,1,154,Rabbit Hemorrhagic Disease,rabbit hemorrhagic disease,hemorrhagic disease,systemic viral disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,4.0,38.8
+Sheep,Dorset,3,Male,75.0,1,0,1,1,1,0,1,0,0,77,Foot and Mouth Disease,foot and mouth disease,foot and mouth disease,foot and mouth disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.1
+Goat,Toggenburg,5,Female,60.0,1,1,1,0,1,0,1,0,0,81,Caprine Pleuropneumonia,caprine pleuropneumonia,pleuropneumonia,respiratory disease,1,0,1,1,1,0,0,0,0,0,0,0,0,0,4.0,39.6
+Pig,Berkshire,4,Male,95.0,1,0,0,1,1,1,1,1,0,88,Porcine Reproductive and Respiratory Syndrome,porcine reproductive and respiratory syndrome,reproductive and respiratory syndrome,other,0,1,1,0,0,1,0,1,0,0,0,0,0,0,3.0,39.2
+Dog,Bulldog,5,Female,18.0,1,0,0,1,1,1,0,1,0,115,Kennel Cough,kennel cough,kennel cough,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.3
+Cat,Siamese,6,Male,5.5,1,0,0,1,0,0,1,1,0,149,Feline Infectious Peritonitis,feline infectious peritonitis,infectious peritonitis,systemic viral disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,4.0,39.0
+Horse,Thoroughbred,8,Female,550.0,1,0,1,0,1,1,0,1,1,77,Equine Herpesvirus,equine herpesvirus,herpesvirus,viral respiratory disease,1,0,1,0,0,0,0,0,0,1,0,0,1,0,5.0,39.2
+Cow,Ayrshire,4,Male,630.0,1,0,1,1,0,1,1,1,0,79,Bovine Tuberculosis,bovine tuberculosis,tuberculosis,tuberculosis,0,1,1,0,0,1,0,0,0,0,0,0,1,0,6.0,39.1
+Dog,Beagle,4,Female,15.0,1,0,1,1,0,0,1,1,0,125,Canine Influenza,canine influenza,influenza,influenza,1,1,1,0,0,1,0,0,0,0,0,0,0,0,4.0,39.2
+Cat,Bengal,3,Male,5.0,1,1,0,1,1,0,1,0,1,140,Feline Calicivirus,feline calicivirus,calicivirus,viral respiratory disease,1,0,1,0,0,1,0,1,0,0,0,0,0,0,5.0,39.0
+Horse,Arabian,7,Female,500.0,0,1,1,1,0,1,1,0,0,85,Equine Protozoal Myeloencephalitis,equine protozoal myeloencephalitis,protozoal myeloencephalitis,other,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.3
+Cow,Jersey,5,Male,560.0,1,0,1,1,1,1,1,0,1,79,Bovine Tuberculosis,bovine tuberculosis,tuberculosis,tuberculosis,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.1
+Rabbit,Himalayan,2,Male,1.2,1,0,1,1,0,0,1,0,1,155,Rabbit Hemorrhagic Disease,rabbit hemorrhagic disease,hemorrhagic disease,systemic viral disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,3.0,38.7
+Sheep,Suffolk,5,Female,90.0,1,0,1,1,1,1,0,1,0,72,Foot and Mouth Disease,foot and mouth disease,foot and mouth disease,foot and mouth disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,4.0,39.2
+Goat,Boer,6,Male,70.0,1,1,0,1,0,1,1,0,0,80,Caprine Arthritis Encephalitis,caprine arthritis encephalitis,arthritis encephalitis,systemic viral disease,1,0,1,1,1,0,0,0,0,0,0,0,0,0,5.0,39.4
+Pig,Duroc,4,Female,105.0,1,0,1,0,1,0,1,0,1,83,Porcine Respiratory Disease Complex,porcine respiratory disease complex,respiratory disease complex,respiratory disease,0,1,1,0,0,1,0,1,0,0,0,0,0,0,3.0,39.5
+Dog,Chihuahua,3,Male,6.0,1,1,0,1,1,0,1,1,0,118,Canine Parvovirus,parvovirus,parvovirus,parvovirus,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2.0,39.0
+Cat,Scottish Fold,5,Female,4.7,1,1,1,1,0,1,0,1,1,150,Feline Infectious Peritonitis,feline infectious peritonitis,infectious peritonitis,systemic viral disease,1,0,1,0,0,1,0,1,0,0,0,0,0,0,6.0,38.9
+Horse,Mustang,8,Male,550.0,0,1,1,1,1,0,0,1,0,87,Equine Influenza,equine influenza,influenza,influenza,1,0,1,0,0,0,0,0,0,1,0,0,1,0,7.0,39.1
+Cow,Simmental,4,Male,650.0,1,0,1,1,1,1,0,0,1,78,Bovine Respiratory Syncytial Virus,bovine respiratory syncytial virus,respiratory syncytial virus,viral respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.3
+Rabbit,Mini Lop,1,Female,1.0,1,0,1,1,1,0,1,0,0,158,Myxomatosis,myxomatosis,myxomatosis,systemic viral disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,3.0,38.8
+Sheep,Karakul,5,Male,80.0,1,0,1,1,1,1,0,1,1,75,Scrapie,scrapie,scrapie,scrapie,0,1,1,0,0,1,0,0,0,0,0,0,1,0,4.0,39.4
+Goat,Angora,6,Female,60.0,1,1,1,1,0,0,1,0,1,83,Caprine Pleuropneumonia,caprine pleuropneumonia,pleuropneumonia,respiratory disease,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5.0,39.6
+Pig,Landrace,4,Male,100.0,1,1,1,1,1,0,1,0,1,87,Porcine Epidemic Diarrhea,porcine epidemic diarrhea,epidemic diarrhea,gastrointestinal disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.2
+Dog,Rottweiler,5,Female,40.0,1,0,1,1,1,1,0,1,0,122,Canine Distemper,distemper,distemper,distemper,1,1,1,1,0,0,0,0,0,0,0,0,0,0,4.0,39.3
+Cat,Abyssinian,3,Male,4.6,1,0,1,0,1,1,1,0,0,142,Feline Leukemia Virus,feline leukemia,leukemia,other,1,0,1,0,0,1,0,1,0,0,0,0,0,0,4.0,39.0
+Horse,Tennessee Walking Horse,6,Female,600.0,0,1,1,1,0,0,1,1,1,82,Equine Rhinopneumonitis,equine rhinopneumonitis,rhinopneumonitis,other,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.4
+Cow,Dexter,3,Male,450.0,1,1,0,1,1,0,1,1,1,79,Bovine Viral Diarrhea,bovine viral diarrhea,viral diarrhea,gastrointestinal disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.3
+Rabbit,Holland Lop,1,Male,1.0,1,1,0,1,0,1,1,0,0,153,Rabbit Syphilis,rabbit syphilis,syphilis,other,1,0,1,0,0,0,0,1,0,0,0,0,0,0,3.0,38.9
+Sheep,Corriedale,4,Female,95.0,1,0,0,1,1,1,0,1,0,76,Blue Tongue,bluetongue,bluetongue,systemic viral disease,0,1,1,0,0,1,0,0,0,0,0,0,1,0,5.0,39.1
+Goat,Kiko,5,Male,72.0,1,1,0,1,0,1,1,0,1,80,Caprine Pleuropneumonia,caprine pleuropneumonia,pleuropneumonia,respiratory disease,1,1,1,1,0,0,0,0,0,0,0,0,0,0,6.0,39.5
+Pig,Hampshire,3,Female,105.0,1,1,0,1,1,0,1,0,1,86,Porcine Respiratory Disease Complex,porcine respiratory disease complex,respiratory disease complex,respiratory disease,0,1,1,0,0,1,0,1,0,0,0,0,0,0,5.0,39.2
+Dog,Golden Retriever,7,Male,30.0,1,1,1,1,1,0,1,0,0,130,Canine Distemper,distemper,distemper,distemper,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.0
+Cat,Persian,6,Female,4.2,1,1,0,1,0,0,1,1,0,148,Feline Coronavirus,feline coronavirus,coronavirus,viral respiratory disease,1,1,1,0,0,0,0,1,0,0,0,0,0,0,5.0,39.1
+Horse,Standardbred,6,Male,650.0,1,0,1,0,1,1,1,0,1,80,Equine Influenza,equine influenza,influenza,influenza,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.4
+Cow,Charolais,3,Male,700.0,1,1,0,0,1,1,0,1,1,77,Bovine Tuberculosis,bovine tuberculosis,tuberculosis,tuberculosis,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.2
+Dog,Poodle,3,Female,20.0,1,0,1,0,1,1,1,0,1,120,Parvovirus,parvovirus,parvovirus,parvovirus,1,1,0,1,1,0,0,0,0,0,0,0,0,0,4.0,39.0
+Cat,Maine Coon,5,Male,8.5,1,1,0,1,1,0,1,0,1,145,Feline Upper Respiratory Infection,upper respiratory infection,upper respiratory infection,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3.0,39.1
+Horse,Clydesdale,7,Female,850.0,1,0,1,1,1,0,1,0,1,82,Equine Herpesvirus,equine herpesvirus,herpesvirus,viral respiratory disease,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.2
+Cow,Holstein,4,Male,700.0,1,1,0,0,1,0,1,0,1,77,Bovine Respiratory Disease,bovine respiratory disease,respiratory disease,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.3
+Rabbit,Dutch,2,Male,1.8,1,1,0,1,0,1,0,0,1,150,Rabbit Viral Hemorrhagic Disease,rabbit viral hemorrhagic disease,viral hemorrhagic disease,systemic viral disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,4.0,39.0
+Sheep,Southdown,6,Female,80.0,1,0,1,1,0,1,1,0,0,74,Contagious Ecthyma,contagious ecthyma,contagious ecthyma,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.3
+Goat,Nubian,4,Male,72.0,1,1,0,1,1,0,1,0,1,80,Pneumonia,pneumonia,pneumonia,respiratory disease,1,1,1,1,0,0,0,0,0,0,0,0,0,0,6.0,39.6
+Pig,Berkshire,5,Female,110.0,1,0,1,1,1,0,1,0,1,85,Swine Influenza,swine influenza,influenza,influenza,1,0,1,0,0,1,0,1,0,0,0,0,0,0,5.0,39.2
+Dog,German Shepherd,4,Male,32.0,1,1,0,1,1,1,1,0,0,130,Canine Hepatitis,canine hepatitis,hepatitis,other,1,1,1,1,0,0,0,0,0,0,0,0,0,0,3.0,39.1
+Cat,Sphynx,3,Female,5.0,1,0,1,0,1,1,0,1,1,155,Feline Rhinotracheitis,feline rhinotracheitis,rhinotracheitis,viral respiratory disease,1,0,1,0,0,1,0,1,0,0,0,0,0,0,4.0,39.0
+Horse,Andalusian,8,Male,550.0,1,0,1,1,0,1,1,0,1,88,Equine Encephalomyelitis,equine encephalomyelitis,encephalomyelitis,other,1,0,1,0,0,0,0,0,0,1,0,0,1,0,7.0,39.4
+Cow,Guernsey,5,Female,450.0,1,0,1,0,1,1,1,1,0,78,Bovine Parainfluenza,bovine parainfluenza,parainfluenza,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,4.0,39.0
+Rabbit,English Angora,3,Male,1.4,1,1,0,1,1,1,0,1,0,148,Pasteurellosis,pasteurellosis,pasteurellosis,respiratory disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,4.0,38.9
+Sheep,Tunis,4,Male,95.0,1,1,0,1,0,1,1,0,0,76,Bluetongue Virus,bluetongue virus,bluetongue virus,other,0,1,1,0,0,1,0,0,0,0,0,0,1,0,5.0,39.2
+Goat,Boer,6,Female,75.0,1,1,0,1,1,0,1,1,1,82,Caprine Viral Arthritis,caprine viral arthritis,viral arthritis,other,1,1,1,1,0,0,0,0,0,0,0,0,0,0,6.0,39.7
+Pig,Large White,4,Male,120.0,1,0,1,1,1,1,0,1,0,86,Actinobacillus Pleuropneumonia,actinobacillus pleuropneumonia,actinobacillus pleuropneumonia,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.1
+Dog,Bulldog,3,Female,25.0,1,0,1,1,1,1,1,0,1,125,Canine Leptospirosis,canine leptospirosis,leptospirosis,other,1,1,1,1,0,0,0,0,0,0,0,0,0,0,4.0,39.2
+Cat,Russian Blue,2,Male,6.0,1,1,1,1,0,1,1,0,1,145,Feline Asthma,feline asthma,asthma,respiratory disease,1,0,1,0,0,1,0,1,0,0,0,0,0,0,3.0,39.0
+Horse,Thoroughbred,6,Female,650.0,1,0,1,0,1,0,1,1,0,84,Equine Influenza Virus,equine influenza virus,influenza virus,other,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.3
+Cow,Red Poll,4,Male,680.0,1,1,0,0,1,0,1,1,1,77,Bovine Tuberculosis,bovine tuberculosis,tuberculosis,tuberculosis,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.4
+Rabbit,Himalayan,2,Female,1.1,1,0,1,1,0,1,1,0,1,150,Rabbit Calicivirus,rabbit calicivirus,calicivirus,viral respiratory disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,3.0,38.8
+Sheep,Romney,5,Female,90.0,1,0,1,1,0,1,1,1,0,75,Maedi-Visna,maedi visna,maedi visna,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,4.0,39.1
+Goat,Alpine,5,Male,80.0,1,1,0,1,0,1,1,1,1,80,Caseous Lymphadenitis,caseous lymphadenitis,caseous lymphadenitis,other,1,0,1,1,1,0,0,0,0,0,0,0,0,0,4.0,39.5
+Pig,Pietrain,4,Female,130.0,1,1,0,1,0,1,0,1,1,88,Swine Erysipelas,swine erysipelas,erysipelas,other,0,1,1,0,0,1,0,1,0,0,0,0,0,0,6.0,39.2
+Dog,Beagle,5,Male,25.0,1,1,0,0,1,1,1,0,1,120,Kennel Cough,kennel cough,kennel cough,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.2
+Cat,Bengal,3,Female,6.0,1,1,1,1,0,1,1,0,1,145,Feline Herpesvirus,feline herpesvirus,herpesvirus,viral respiratory disease,1,0,1,0,0,1,0,1,0,0,0,0,0,0,4.0,39.1
+Horse,Appaloosa,9,Male,550.0,1,1,0,1,0,1,1,1,1,80,Equine Infectious Anemia,equine infectious anemia,infectious anemia,systemic viral disease,1,0,1,0,0,0,0,0,0,1,0,0,1,0,7.0,39.4
+Cow,Jersey,6,Female,500.0,1,0,1,0,1,1,1,0,1,75,Bovine Viral Diarrhea,bovine viral diarrhea,viral diarrhea,gastrointestinal disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.2
+Rabbit,English Lop,3,Male,2.0,1,1,0,1,1,1,1,0,0,155,Myxomatosis,myxomatosis,myxomatosis,systemic viral disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,4.0,39.0
+Sheep,Blackface,4,Male,95.0,1,0,1,0,1,1,0,1,0,77,Blue Tongue Disease,bluetongue,bluetongue,systemic viral disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.3
+Goat,Saanen,5,Female,85.0,1,1,0,1,0,1,1,1,0,85,Caprine Arthritis Encephalitis,caprine arthritis encephalitis,arthritis encephalitis,systemic viral disease,1,1,0,1,1,0,0,0,0,0,0,0,0,0,6.0,39.6
+Pig,Landrace,6,Male,120.0,1,0,1,1,0,0,1,1,0,95,Actinobacillus Pleuropneumonia,actinobacillus pleuropneumonia,actinobacillus pleuropneumonia,respiratory disease,1,0,1,0,0,1,0,1,0,0,0,0,0,0,5.0,39.1
+Dog,Chihuahua,4,Female,5.0,1,1,0,1,1,1,1,0,0,110,Canine Parvovirus,parvovirus,parvovirus,parvovirus,1,1,1,1,0,0,0,0,0,0,0,0,0,0,3.0,39.1
+Cat,Siberian,7,Male,10.2,1,1,1,1,0,0,1,1,0,135,Feline Asthma,feline asthma,asthma,respiratory disease,1,0,1,0,0,1,0,1,0,0,0,0,0,0,5.0,39.0
+Horse,Clydesdale,7,Female,800.0,1,1,0,1,1,1,1,1,1,85,Equine Leptospirosis,equine leptospirosis,leptospirosis,other,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.5
+Cow,Ayrshire,5,Male,720.0,1,1,0,0,1,1,1,0,1,82,Bovine Tuberculosis,bovine tuberculosis,tuberculosis,tuberculosis,1,1,1,0,0,1,0,0,0,0,0,0,0,0,4.0,39.3
+Rabbit,Himalayan,4,Female,1.6,1,0,1,0,1,1,1,0,1,145,Pasteurellosis,pasteurellosis,pasteurellosis,respiratory disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,5.0,39.0
+Sheep,Suffolk,4,Male,85.0,1,1,0,1,0,0,1,1,0,78,Contagious Abortion,contagious abortion,contagious abortion,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.4
+Goat,Nubian,6,Female,95.0,1,1,0,1,0,1,1,1,1,80,Pneumonia,pneumonia,pneumonia,respiratory disease,1,1,0,1,1,0,0,0,0,0,0,0,0,0,6.0,39.8
+Pig,Duroc,3,Male,110.0,1,1,0,1,1,0,1,0,1,100,Swine Dysentery,swine dysentery,dysentery,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.2
+Dog,Boxer,6,Female,30.0,1,1,0,1,1,1,1,0,1,115,Canine Leptospirosis,canine leptospirosis,leptospirosis,other,1,1,1,1,0,0,0,0,0,0,0,0,0,0,4.0,39.1
+Cat,Abyssinian,5,Male,4.5,1,0,1,0,1,1,1,0,1,140,Feline Respiratory Disease Complex,feline respiratory disease complex,respiratory disease complex,respiratory disease,1,0,1,0,0,1,0,1,0,0,0,0,0,0,3.0,39.0
+Horse,Morgan,5,Male,550.0,1,1,0,1,1,0,1,1,1,80,Equine Herpesvirus,equine herpesvirus,herpesvirus,viral respiratory disease,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.2
+Cow,Belted Galloway,4,Female,650.0,1,1,1,0,1,1,1,0,1,75,Bovine Tuberculosis,bovine tuberculosis,tuberculosis,tuberculosis,1,1,1,0,0,1,0,0,0,0,0,0,0,0,4.0,39.4
+Rabbit,Dutch,3,Male,2.0,1,1,0,1,1,1,1,0,1,150,Rabbit Hemorrhagic Disease,rabbit hemorrhagic disease,hemorrhagic disease,systemic viral disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,4.0,39.1
+Sheep,Cheviot,3,Female,75.0,1,1,0,1,0,0,1,1,0,77,Foot-and-Mouth Disease,foot and mouth disease,foot and mouth disease,foot and mouth disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.3
+Goat,Angora,4,Male,90.0,1,1,1,0,1,0,1,0,1,82,Caprine Arthritis,caprine arthritis,arthritis,arthritis,1,1,0,1,1,0,0,0,0,0,0,0,0,0,5.0,39.6
+Pig,Large White,5,Female,130.0,1,0,1,1,1,1,1,0,1,90,Swine Flu,swine flu,flu,influenza,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.0
+Dog,Yorkshire Terrier,4,Male,8.0,1,1,0,1,1,0,1,0,1,100,Canine Heartworm Disease,canine heartworm disease,heartworm disease,other,1,1,1,1,0,0,0,0,0,0,0,0,0,0,3.0,39.2
+Cat,Maine Coon,6,Female,10.0,1,1,1,0,1,1,1,1,1,145,Feline Leukemia,feline leukemia,leukemia,other,1,0,1,0,0,1,0,1,0,0,0,0,0,0,4.0,39.1
+Horse,Thoroughbred,6,Male,550.0,1,0,0,1,1,1,1,1,1,78,Equine Influenza,equine influenza,influenza,influenza,1,0,1,0,0,0,0,0,0,1,0,0,1,0,5.0,39.5
+Dog,Rottweiler,7,Male,35.0,1,0,0,1,1,1,1,1,1,110,Kennel Cough,kennel cough,kennel cough,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,4.0,39.3
+Cat,Persian,4,Female,7.0,1,1,0,1,1,1,1,0,1,125,Feline Infectious Peritonitis,feline infectious peritonitis,infectious peritonitis,systemic viral disease,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5.0,39.1
+Horse,Clydesdale,10,Female,750.0,1,1,1,0,0,1,1,1,1,90,Equine Encephalomyelitis,equine encephalomyelitis,encephalomyelitis,other,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.4
+Cow,Holstein,8,Male,650.0,1,0,1,0,1,1,1,0,1,80,Bovine Respiratory Disease Complex,bovine respiratory disease complex,respiratory disease complex,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,4.0,39.5
+Rabbit,Himalayan,3,Male,1.8,1,1,0,1,0,1,1,0,1,140,Rabbit Viral Hemorrhagic Disease,rabbit viral hemorrhagic disease,viral hemorrhagic disease,systemic viral disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,4.0,39.0
+Sheep,Rambouillet,5,Female,90.0,1,1,0,1,1,1,0,0,1,78,Scrapie,scrapie,scrapie,scrapie,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.3
+Goat,Boer,6,Male,100.0,1,1,0,1,0,1,1,1,1,85,Pneumonia,pneumonia,pneumonia,respiratory disease,1,1,0,1,1,0,0,0,0,0,0,0,0,0,5.0,39.6
+Pig,Berkshire,4,Female,120.0,1,1,0,1,0,1,1,1,1,100,Swine Fever,swine fever,fever,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.2
+Dog,Golden Retriever,5,Male,40.0,1,1,0,1,0,1,1,0,0,130,Canine Parvovirus,parvovirus,parvovirus,parvovirus,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5.0,39.2
+Cat,Bengal,3,Female,8.0,1,1,0,1,0,1,1,0,1,145,Feline Panleukopenia,parvovirus,parvovirus,parvovirus,1,0,1,0,0,1,0,1,0,0,0,0,0,0,4.0,39.0
+Horse,Arabian,7,Male,450.0,1,1,1,0,1,0,1,1,1,85,Equine Protozoal Myeloencephalitis,equine protozoal myeloencephalitis,protozoal myeloencephalitis,other,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.4
+Cow,Jersey,6,Female,550.0,1,0,1,0,1,1,0,1,0,70,Johne's Disease,johnes disease,johnes disease,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.6
+Rabbit,English Angora,2,Male,1.9,1,1,0,1,1,1,0,0,1,150,Ringworm,ringworm,ringworm,other,1,0,1,0,0,0,0,1,0,0,0,0,0,0,3.0,39.1
+Sheep,Suffolk,4,Male,110.0,1,1,0,1,0,1,0,1,1,77,Bluetongue,bluetongue,bluetongue,systemic viral disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.3
+Goat,Nubian,7,Female,120.0,1,1,0,1,0,1,1,1,0,85,Foot-and-Mouth Disease,foot and mouth disease,foot and mouth disease,foot and mouth disease,1,1,0,1,1,0,0,0,0,0,0,0,0,0,5.0,39.7
+Pig,Tamworth,5,Male,150.0,1,0,1,1,1,1,1,1,0,92,Actinobacillus Pleuropneumonia,actinobacillus pleuropneumonia,actinobacillus pleuropneumonia,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.3
+Dog,Beagle,4,Female,25.0,1,1,0,1,1,1,0,1,1,120,Distemper,distemper,distemper,distemper,1,1,1,1,0,0,0,0,0,0,0,0,0,0,4.0,39.2
+Cat,Siberian,5,Male,11.0,1,1,0,1,1,1,1,0,1,140,Feline Leukemia Virus,feline leukemia,leukemia,other,1,0,1,0,0,1,0,1,0,0,0,0,0,0,4.0,39.2
+Horse,Pinto,6,Male,600.0,1,1,0,1,0,1,1,1,1,88,Equine Influenza,equine influenza,influenza,influenza,1,0,1,0,0,0,0,0,0,1,0,0,1,0,5.0,39.5
+Cow,Ayrshire,7,Female,550.0,1,0,1,1,1,1,1,0,1,75,Bovine Johne's Disease,bovine johnes disease,johnes disease,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.4
+Rabbit,Mini Rex,2,Female,1.5,1,1,1,0,1,0,1,0,1,130,Pneumonia,pneumonia,pneumonia,respiratory disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,3.0,39.1
+Sheep,Dorper,4,Male,95.0,1,1,0,1,0,1,1,0,0,78,Contagious Ecthyma,contagious ecthyma,contagious ecthyma,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.3
+Goat,Saanen,8,Female,110.0,1,1,1,0,1,1,0,0,1,85,Caprine Arthritis Encephalitis,caprine arthritis encephalitis,arthritis encephalitis,systemic viral disease,1,1,0,1,1,0,0,0,0,0,0,0,0,0,6.0,39.8
+Pig,Landrace,6,Female,130.0,1,1,0,1,1,0,1,1,0,110,Swine Influenza,swine influenza,influenza,influenza,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.2
+Dog,Chihuahua,3,Male,6.0,1,0,0,1,1,1,1,1,0,135,Parvovirus,parvovirus,parvovirus,parvovirus,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5.0,39.3
+Cat,Burmese,4,Female,7.5,1,1,0,1,1,0,1,1,1,140,Feline Chlamydiosis,feline chlamydiosis,chlamydiosis,other,1,0,1,0,0,1,0,1,0,0,0,0,0,0,5.0,39.0
+Horse,Appaloosa,8,Male,700.0,1,0,1,1,1,0,1,1,1,82,West Nile Virus,west nile virus,west nile virus,systemic viral disease,1,0,1,0,0,0,0,0,0,1,0,0,1,0,7.0,39.3
+Cow,Guernsey,5,Female,600.0,1,0,0,1,1,1,0,1,1,85,Bovine Tuberculosis,bovine tuberculosis,tuberculosis,tuberculosis,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.6
+Dog,Poodle,3,Female,28.0,1,1,0,1,1,1,1,0,1,120,Kennel Cough,kennel cough,kennel cough,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.1
+Cat,Maine Coon,4,Male,10.0,1,1,1,1,0,1,1,1,0,140,Feline Leukemia Virus,feline leukemia,leukemia,other,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5.0,39.0
+Horse,Thoroughbred,5,Female,550.0,1,1,1,1,0,0,1,1,1,100,Equine Influenza,equine influenza,influenza,influenza,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.5
+Cow,Charolais,8,Male,700.0,1,1,0,0,1,1,1,0,1,75,Bovine Respiratory Disease,bovine respiratory disease,respiratory disease,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.2
+Rabbit,Holland Lop,2,Male,1.5,1,1,0,1,1,1,0,1,1,130,Pasteurellosis,pasteurellosis,pasteurellosis,respiratory disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,4.0,39.3
+Sheep,Blackface,6,Male,95.0,1,1,1,0,1,1,1,1,0,80,Foot-and-Mouth Disease,foot and mouth disease,foot and mouth disease,foot and mouth disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.4
+Goat,Kiko,4,Female,90.0,1,0,1,1,0,1,1,0,1,85,Caprine Arthritis Encephalitis,caprine arthritis encephalitis,arthritis encephalitis,systemic viral disease,1,1,0,1,1,0,0,0,0,0,0,0,0,0,5.0,39.6
+Pig,Large White,3,Female,120.0,1,1,0,1,1,0,1,1,0,95,Swine Influenza,swine influenza,influenza,influenza,1,1,1,0,0,1,0,0,0,0,0,0,0,0,4.0,39.1
+Dog,Beagle,4,Male,20.0,1,0,1,1,0,1,1,1,1,130,Canine Distemper,distemper,distemper,distemper,1,1,1,1,0,0,0,0,0,0,0,0,0,0,4.0,39.2
+Cat,Siamese,3,Female,7.0,1,1,0,1,1,1,1,1,1,140,Feline Infectious Peritonitis,feline infectious peritonitis,infectious peritonitis,systemic viral disease,1,0,1,0,0,1,0,1,0,0,0,0,0,0,3.0,39.0
+Horse,Clydesdale,8,Male,800.0,1,1,1,1,0,1,1,1,1,85,Equine Encephalomyelitis,equine encephalomyelitis,encephalomyelitis,other,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.6
+Cow,Simmental,7,Female,650.0,1,0,1,0,1,0,1,1,1,75,Bovine Tuberculosis,bovine tuberculosis,tuberculosis,tuberculosis,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.3
+Rabbit,Mini Lop,1,Female,1.3,1,1,0,0,1,1,0,1,1,140,Myxomatosis,myxomatosis,myxomatosis,systemic viral disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,3.0,39.1
+Sheep,Texel,5,Male,110.0,1,1,1,1,1,1,0,1,0,70,Scrapie,scrapie,scrapie,scrapie,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.4
+Goat,Angora,7,Female,100.0,1,1,1,0,1,0,1,1,1,80,Pneumonia,pneumonia,pneumonia,respiratory disease,1,1,0,1,1,0,0,0,0,0,0,0,0,0,5.0,39.7
+Pig,Landrace,5,Male,130.0,1,0,1,1,1,1,1,0,1,90,Actinobacillus Pleuropneumonia,actinobacillus pleuropneumonia,actinobacillus pleuropneumonia,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,4.0,39.2
+Dog,Dachshund,3,Female,12.0,1,1,0,1,0,1,1,1,0,115,Canine Parvovirus,parvovirus,parvovirus,parvovirus,1,1,1,1,0,0,0,0,0,0,0,0,0,0,4.0,39.0
+Cat,Bengal,4,Male,10.0,1,1,0,1,0,1,1,0,1,145,Feline Panleukopenia,parvovirus,parvovirus,parvovirus,1,1,1,1,0,0,0,0,0,0,0,0,0,0,4.0,39.2
+Horse,Arabian,6,Male,500.0,1,0,1,0,1,1,0,1,0,85,Equine Protozoal Myeloencephalitis,equine protozoal myeloencephalitis,protozoal myeloencephalitis,other,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.3
+Cow,Jersey,6,Male,550.0,1,1,0,1,1,1,0,0,1,70,Bovine Johne's Disease,bovine johnes disease,johnes disease,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.5
+Rabbit,Himalayan,2,Male,1.8,1,1,1,1,0,1,1,1,1,130,Rabbit Viral Hemorrhagic Disease,rabbit viral hemorrhagic disease,viral hemorrhagic disease,systemic viral disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,4.0,39.2
+Sheep,Rambouillet,6,Female,90.0,1,1,0,1,0,1,1,1,0,80,Bluetongue,bluetongue,bluetongue,systemic viral disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.6
+Goat,Boer,7,Female,120.0,1,1,0,1,1,0,1,1,1,90,Foot-and-Mouth Disease,foot and mouth disease,foot and mouth disease,foot and mouth disease,1,1,0,1,1,0,0,0,0,0,0,0,0,0,5.0,39.5
+Pig,Tamworth,4,Female,150.0,1,0,1,1,1,1,0,1,1,85,Swine Erysipelas,swine erysipelas,erysipelas,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.4
+Dog,Bulldog,5,Female,22.0,1,1,1,0,1,1,1,0,1,120,Canine Cough,canine cough,cough,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.3
+Horse,Quarter Horse,7,Male,550.0,1,0,1,0,1,1,1,0,1,110,Equine Infectious Anemia,equine infectious anemia,infectious anemia,systemic viral disease,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.4
+Cow,Holstein,8,Female,750.0,1,1,1,1,0,1,0,1,1,85,Bovine Respiratory Disease Complex,bovine respiratory disease complex,respiratory disease complex,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,7.0,39.5
+Rabbit,English Angora,1,Female,2.0,1,1,1,1,0,1,1,0,1,120,Respiratory Infection,upper respiratory infection,upper respiratory infection,respiratory disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,5.0,39.2
+Sheep,Cheviot,4,Male,85.0,1,1,1,1,0,1,1,1,1,95,Blue Tongue Virus,bluetongue,bluetongue,systemic viral disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.3
+Goat,Saanen,2,Male,85.0,1,1,0,0,1,1,1,0,1,90,Caprine Arthritis Encephalitis Virus,caprine arthritis encephalitis virus,arthritis encephalitis virus,other,1,1,0,1,1,0,0,0,0,0,0,0,0,0,5.0,39.6
+Pig,Pietrain,3,Female,135.0,1,0,1,1,1,1,1,0,1,95,African Swine Fever,african swine fever,african swine fever,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.4
+Dog,Shih Tzu,4,Male,8.0,1,1,1,1,0,0,1,0,1,115,Parvovirus,parvovirus,parvovirus,parvovirus,1,1,1,1,0,0,0,0,0,0,0,0,0,0,4.0,39.2
+Cat,Abyssinian,2,Female,6.0,1,1,0,1,0,1,0,1,1,140,Feline Infectious Peritonitis,feline infectious peritonitis,infectious peritonitis,systemic viral disease,1,0,1,0,0,1,0,1,0,0,0,0,0,0,4.0,39.1
+Horse,Morgan,9,Male,600.0,1,1,1,1,1,0,1,1,1,80,West Nile Virus,west nile virus,west nile virus,systemic viral disease,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.5
+Cow,Angus,5,Female,650.0,1,1,1,1,1,1,1,0,1,75,Bovine Tuberculosis,bovine tuberculosis,tuberculosis,tuberculosis,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.3
+Rabbit,Himalayan,2,Male,1.5,1,1,1,1,1,1,0,1,1,130,Viral Hemorrhagic Disease,viral hemorrhagic disease,viral hemorrhagic disease,systemic viral disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,4.0,39.2
+Sheep,Suffolk,6,Female,120.0,1,1,1,1,1,1,1,1,0,80,Scrapie Disease,scrapie disease,scrapie disease,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.5
+Goat,Toggenburg,5,Female,75.0,1,1,1,1,0,1,1,1,1,85,Pneumonia,pneumonia,pneumonia,respiratory disease,1,1,0,1,1,0,0,0,0,0,0,0,0,0,5.0,39.7
+Pig,Landrace,6,Male,140.0,1,1,0,0,1,1,1,1,1,90,Swine Influenza,swine influenza,influenza,influenza,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.5
+Dog,Cocker Spaniel,2,Female,10.0,1,0,1,1,1,0,1,1,1,125,Distemper,distemper,distemper,distemper,1,1,1,1,0,0,0,0,0,0,0,0,0,0,3.0,39.0
+Cat,Ragdoll,5,Male,8.0,1,1,0,1,1,1,1,1,1,145,Feline Leukemia Virus,feline leukemia,leukemia,other,1,0,1,0,0,1,0,1,0,0,0,0,0,0,4.0,39.2
+Horse,Clydesdale,7,Male,700.0,1,1,1,1,1,0,1,1,1,85,Equine Encephalitis,equine encephalitis,encephalitis,other,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.6
+Cow,Limousin,6,Male,650.0,1,1,0,1,1,1,1,0,1,80,Bovine Respiratory Disease Complex,bovine respiratory disease complex,respiratory disease complex,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.5
+Rabbit,Mini Rex,1,Female,1.2,1,1,1,0,1,0,1,0,1,130,Rabbit Hemorrhagic Disease,rabbit hemorrhagic disease,hemorrhagic disease,systemic viral disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,3.0,39.0
+Sheep,Merino,7,Male,90.0,1,1,1,1,1,1,1,1,1,90,Bluetongue,bluetongue,bluetongue,systemic viral disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.4
+Goat,Alpine,6,Male,110.0,1,1,1,1,0,1,1,0,1,90,Caprine Arthritis Encephalitis Virus,caprine arthritis encephalitis virus,arthritis encephalitis virus,other,1,1,0,1,1,0,0,0,0,0,0,0,0,0,5.0,39.6
+Pig,Berkshire,4,Female,120.0,1,1,0,1,1,1,1,1,1,85,Swine Erysipelas,swine erysipelas,erysipelas,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.4
+Dog,Rottweiler,3,Female,30.0,1,1,1,1,1,1,1,1,1,120,Leptospirosis,leptospirosis,leptospirosis,other,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5.0,39.2
+Cat,Bengal,4,Male,7.0,1,1,0,1,0,1,0,1,1,135,Feline Immunodeficiency Virus,feline immunodeficiency virus,immunodeficiency virus,other,1,0,1,0,0,1,0,1,0,0,0,0,0,0,5.0,39.1
+Horse,Thoroughbred,5,Male,550.0,1,1,0,1,0,1,1,1,1,110,Equine Infectious Anemia,equine infectious anemia,infectious anemia,systemic viral disease,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.5
+Cow,Jersey,3,Female,600.0,1,0,1,1,1,0,0,1,1,95,Bovine Respiratory Disease,bovine respiratory disease,respiratory disease,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.4
+Sheep,Dorset,6,Male,120.0,1,1,1,0,1,1,1,1,0,85,Scrapie,scrapie,scrapie,scrapie,1,1,1,0,0,1,0,0,0,0,0,0,0,0,7.0,39.5
+Goat,Nubian,2,Female,80.0,1,1,1,1,0,1,0,0,1,90,Caprine Arthritis Encephalitis,caprine arthritis encephalitis,arthritis encephalitis,systemic viral disease,1,1,0,1,1,0,0,0,0,0,0,0,0,0,4.0,39.7
+Pig,Tamworth,3,Male,160.0,1,1,1,1,1,0,1,0,1,105,Swine Influenza,swine influenza,influenza,influenza,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.5
+Horse,Clydesdale,6,Male,700.0,1,1,1,0,1,1,1,1,1,115,Equine Herpesvirus,equine herpesvirus,herpesvirus,viral respiratory disease,1,0,1,0,0,0,0,0,0,1,0,0,1,0,7.0,39.6
+Cow,Angus,4,Female,650.0,1,1,0,1,1,0,1,1,1,90,Bovine Tuberculosis,bovine tuberculosis,tuberculosis,tuberculosis,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.5
+Rabbit,Himalayan,2,Male,1.6,1,1,1,1,1,1,0,1,1,130,Rabbit Hemorrhagic Disease,rabbit hemorrhagic disease,hemorrhagic disease,systemic viral disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,4.0,39.2
+Sheep,Suffolk,7,Male,130.0,1,1,1,1,1,1,0,1,0,85,Bluetongue Virus,bluetongue virus,bluetongue virus,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.3
+Goat,Alpine,3,Female,75.0,1,1,1,1,1,1,1,1,1,95,Caprine Arthritis Encephalitis,caprine arthritis encephalitis,arthritis encephalitis,systemic viral disease,1,1,0,1,1,0,0,0,0,0,0,0,0,0,4.0,39.7
+Pig,Berkshire,5,Male,140.0,1,0,1,1,1,1,1,0,1,100,African Swine Fever,african swine fever,african swine fever,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.5
+Dog,Chihuahua,2,Male,6.0,1,1,1,0,0,1,1,0,1,130,Canine Distemper,distemper,distemper,distemper,1,1,1,1,0,0,0,0,0,0,0,0,0,0,3.0,39.3
+Cat,Maine Coon,6,Male,9.0,1,1,0,1,1,1,0,1,1,140,Feline Herpesvirus,feline herpesvirus,herpesvirus,viral respiratory disease,1,0,1,0,0,1,0,1,0,0,0,0,0,0,5.0,39.4
+Horse,Arabian,7,Female,550.0,1,1,1,1,0,1,1,1,1,100,Equine Infectious Anemia,equine infectious anemia,infectious anemia,systemic viral disease,1,0,1,0,0,0,0,0,0,1,0,0,1,0,7.0,39.7
+Cow,Charolais,8,Female,750.0,1,1,0,1,1,1,1,0,1,80,Bovine Respiratory Disease,bovine respiratory disease,respiratory disease,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.3
+Rabbit,Dutch,1,Female,1.4,1,1,1,0,1,1,1,1,1,130,Rabbit Viral Hemorrhagic Disease,rabbit viral hemorrhagic disease,viral hemorrhagic disease,systemic viral disease,1,0,1,0,0,0,0,1,0,0,0,0,0,0,3.0,39.2
+Sheep,Hampshire,6,Male,125.0,1,1,1,1,1,1,1,1,1,85,Scrapie Disease,scrapie disease,scrapie disease,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,7.0,39.6
+Goat,Nubian,4,Male,80.0,1,1,0,1,0,1,1,1,0,90,Caprine Respiratory Disease,caprine respiratory disease,respiratory disease,respiratory disease,1,1,0,1,1,0,0,0,0,0,0,0,0,0,5.0,39.6
+Pig,Large White,6,Female,130.0,1,1,0,1,1,1,1,0,1,95,Swine Fever,swine fever,fever,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.4
+Dog,Beagle,2,Male,10.0,1,1,1,1,0,1,1,0,1,120,Canine Leptospirosis,canine leptospirosis,leptospirosis,other,1,1,1,1,0,0,0,0,0,0,0,0,0,0,4.0,39.4
+Cat,Persian,4,Female,7.0,1,1,1,0,1,0,1,0,1,130,Feline Asthma,feline asthma,asthma,respiratory disease,1,0,1,0,0,1,0,1,0,0,0,0,0,0,5.0,39.0
+Horse,Percheron,5,Male,680.0,1,1,1,1,1,0,1,1,1,105,Equine Laminitis,equine laminitis,laminitis,other,1,0,1,0,0,0,0,0,0,1,0,0,1,0,5.0,39.4
+Cow,Holstein,3,Male,700.0,1,1,1,1,0,1,1,0,1,90,Bovine Mastitis,bovine mastitis,mastitis,mastitis,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.2
+Cow,Guernsey,3,Male,580.0,1,1,1,1,0,1,1,0,1,85,Bovine Respiratory Disease,bovine respiratory disease,respiratory disease,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,4.0,39.4
+Sheep,Dorset,4,Male,125.0,1,1,0,1,1,0,0,1,1,80,Scrapie,scrapie,scrapie,scrapie,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.3
+Goat,Saanen,3,Female,75.0,1,1,1,0,1,0,1,1,1,90,Caprine Arthritis Encephalitis,caprine arthritis encephalitis,arthritis encephalitis,systemic viral disease,1,1,0,1,1,0,0,0,0,0,0,0,0,0,5.0,39.5
+Pig,Landrace,4,Male,130.0,1,1,1,1,0,1,0,0,1,100,Swine Flu,swine flu,flu,influenza,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.6
+Sheep,Cheviot,3,Female,110.0,1,1,0,1,1,0,0,1,0,80,Bluetongue,bluetongue,bluetongue,systemic viral disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,4.0,39.4
+Goat,Boer,5,Male,85.0,1,1,1,0,1,0,1,1,1,95,Goat Pox,goat pox,goat pox,other,1,1,0,1,1,0,0,0,0,0,0,0,0,0,5.0,39.6
+Pig,Yorkshire,2,Female,120.0,1,1,1,0,1,1,1,1,1,105,Porcine Epidemic Diarrhea Virus,porcine epidemic diarrhea virus,epidemic diarrhea virus,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,4.0,39.5
+Horse,Morgan,4,Male,650.0,1,1,1,0,1,1,1,1,1,120,Equine Herpesvirus,equine herpesvirus,herpesvirus,viral respiratory disease,1,0,1,0,0,0,0,0,0,1,0,0,1,0,6.0,39.6
+Cow,Ayrshire,3,Female,700.0,1,1,1,1,1,0,0,1,1,90,Bovine Respiratory Disease,bovine respiratory disease,respiratory disease,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.4
+Goat,Kiko,4,Female,70.0,1,1,1,1,0,1,1,1,0,90,Caprine Arthritis Encephalitis,caprine arthritis encephalitis,arthritis encephalitis,systemic viral disease,1,1,0,1,1,0,0,0,0,0,0,0,0,0,5.0,39.5
+Pig,Chester White,3,Male,150.0,1,0,1,1,0,1,1,1,1,105,Swine Influenza,swine influenza,influenza,influenza,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.7
+Dog,Boxer,3,Female,30.0,1,1,1,1,1,0,1,0,1,120,Canine Infectious Hepatitis,canine infectious hepatitis,infectious hepatitis,other,1,1,1,1,0,0,0,0,0,0,0,0,0,0,4.0,39.3
+Cat,Maine Coon,5,Male,8.0,1,1,1,1,0,1,0,1,1,135,Feline Panleukopenia Virus,parvovirus,parvovirus,parvovirus,1,0,1,0,0,1,0,1,0,0,0,0,0,0,5.0,39.0
+Horse,Arabian,6,Female,650.0,1,1,1,0,1,1,1,1,1,110,Equine Metabolic Syndrome,equine metabolic syndrome,metabolic syndrome,other,1,0,1,0,0,0,0,0,0,1,0,0,1,0,5.0,39.5
+Cow,Jersey,2,Male,550.0,1,1,1,0,1,1,1,0,1,95,Bovine Mastitis,bovine mastitis,mastitis,mastitis,1,1,1,0,0,1,0,0,0,0,0,0,0,0,4.0,39.2
+Cow,Simmental,4,Female,700.0,1,1,1,1,1,0,0,1,1,100,Bovine Respiratory Disease,bovine respiratory disease,respiratory disease,respiratory disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.4
+Sheep,Suffolk,3,Male,110.0,1,1,1,1,0,1,0,1,0,80,Bluetongue,bluetongue,bluetongue,systemic viral disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.3
+Goat,Toggenburg,2,Female,70.0,1,1,1,1,0,1,1,1,0,90,Caprine Arthritis Encephalitis,caprine arthritis encephalitis,arthritis encephalitis,systemic viral disease,1,1,0,1,1,0,0,0,0,0,0,0,0,0,4.0,39.4
+Pig,Tamworth,3,Male,130.0,1,1,1,1,0,1,0,0,1,105,Swine Influenza,swine influenza,influenza,influenza,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.6
+Cow,Dexter,2,Male,500.0,1,1,1,1,0,1,0,0,1,95,Bovine Tuberculosis,bovine tuberculosis,tuberculosis,tuberculosis,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.4
+Sheep,Cheviot,4,Female,120.0,1,1,1,1,0,1,1,0,1,85,Scrapie,scrapie,scrapie,scrapie,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6.0,39.4
+Goat,Alpine,3,Male,75.0,1,1,1,0,1,0,1,1,0,100,Caprine Viral Arthritis,caprine viral arthritis,viral arthritis,other,1,1,0,1,1,0,0,0,0,0,0,0,0,0,5.0,39.5
+Pig,Large White,2,Female,120.0,1,1,1,1,0,1,1,0,1,110,Porcine Circovirus Disease,porcine circovirus disease,circovirus disease,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.6
+Goat,Nubian,4,Female,80.0,1,1,1,1,0,1,1,0,1,95,Caprine Respiratory Disease,caprine respiratory disease,respiratory disease,respiratory disease,1,1,0,1,1,0,0,0,0,0,0,0,0,0,6.0,39.5
+Pig,Berkshire,5,Male,145.0,1,1,1,1,1,1,0,0,1,110,Swine Fever,swine fever,fever,other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,4.0,39.7
+Sheep,Dorset,5,Male,150.0,1,1,1,1,0,1,0,0,1,90,Scrapie,scrapie,scrapie,scrapie,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.5
+Sheep,Southdown,6,Male,130.0,1,1,1,1,0,1,1,0,1,80,Foot-and-Mouth Disease,foot and mouth disease,foot and mouth disease,foot and mouth disease,1,1,1,0,0,1,0,0,0,0,0,0,0,0,5.0,39.3
+Dog,Golden Retriever,5,Male,35.0,1,1,0,1,0,0,0,1,0,110,Canine Parvovirus,parvovirus,parvovirus,parvovirus,1,1,1,0,0,1,0,0,0,0,0,0,0,0,4.0,39.2
+Dog,Labrador,4,Male,30.0,1,1,0,1,0,0,0,1,0,100,Canine Parvovirus,parvovirus,parvovirus,parvovirus,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5.0,39.2
+Cat,Persian,3,Female,5.0,1,1,0,1,0,0,0,1,0,110,Feline Calicivirus,feline calicivirus,calicivirus,viral respiratory disease,1,0,0,0,0,1,0,1,0,0,0,0,0,0,4.0,39.1
+Horse,Arabian,5,Male,450.0,1,0,0,1,1,1,0,1,0,110,Equine Infectious Anemia,equine infectious anemia,infectious anemia,systemic viral disease,1,0,1,0,0,0,0,0,0,1,0,0,1,0,7.0,39.4
+Horse,Clydesdale,6,Male,700.0,1,1,0,1,1,1,0,1,0,125,Equine Herpesvirus,equine herpesvirus,herpesvirus,viral respiratory disease,1,0,1,0,0,0,0,0,0,1,0,0,1,0,7.0,39.4
+Dog,Labrador,4,Male,25.0,1,1,0,0,0,0,0,0,0,120,Parvovirus,parvovirus,parvovirus,parvovirus,1,1,1,1,0,0,0,0,0,0,0,0,0,0,3.0,39.5
+Cat,Siamese,2,Female,4.5,0,0,0,1,0,0,0,1,1,150,Upper Respiratory Infection,upper respiratory infection,upper respiratory infection,respiratory disease,0,0,0,0,0,1,0,1,1,0,0,0,0,0,7.0,38.9
+Cow,Holstein,3,Female,600.0,1,0,0,1,1,0,0,1,0,90,Foot and Mouth Disease,foot and mouth disease,foot and mouth disease,foot and mouth disease,1,0,0,0,0,1,1,1,0,0,0,0,0,0,5.0,40.1
+Dog,Beagle,1,Male,10.0,1,1,1,0,0,0,0,0,0,130,Gastroenteritis,gastroenteritis,gastroenteritis,gastrointestinal disease,0,1,1,1,1,0,0,0,0,0,0,0,0,0,2.0,39.2
+Cat,Persian,5,Male,3.8,1,0,0,0,0,0,1,0,0,160,Fungal Infection,fungal infection,fungal infection,other,0,1,1,0,0,0,0,0,0,0,1,0,0,0,14.0,38.7
+Horse,Thoroughbred,6,Female,500.0,1,0,0,1,1,0,0,1,0,85,Equine Influenza,equine influenza,influenza,influenza,1,0,0,0,0,1,1,1,0,0,0,0,0,0,10.0,39.8
+Dog,German Shepherd,3,Female,30.0,1,0,0,0,0,1,1,0,0,110,Lyme Disease,lyme disease,lyme disease,other,1,1,0,0,0,0,0,0,0,1,1,0,0,0,7.0,39.3
+Cat,Maine Coon,2,Male,6.0,1,1,1,0,0,0,0,0,0,140,Intestinal Parasites,intestinal parasites,intestinal parasites,other,0,1,1,1,1,0,0,0,0,0,0,0,0,0,4.0,39.1
+Dog,Bulldog,5,Male,23.0,1,0,0,1,1,0,0,1,0,115,Canine Distemper,distemper,distemper,distemper,0,0,1,0,0,1,1,1,0,0,0,0,0,0,6.0,40.0
+Cow,Jersey,4,Female,580.0,1,0,0,0,0,0,0,0,0,70,Mastitis,mastitis,mastitis,mastitis,1,1,0,0,0,0,0,0,0,0,0,0,0,0,8.0,39.6
